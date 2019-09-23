@@ -4,8 +4,8 @@
 # Outline
 ---
 
-|  No   | <div class="tbl-w">Description </div> |
-|  ---  | ---                   	 |
+|  No   | <div style="width:320px">Description </div> |
+|  ---  | ---                        |
 |  0    | [introduction](#)          |
 |  1    | [Easy ones](#)             |
 |  1.1  | [Convert input](#)         |
@@ -23,12 +23,6 @@
 
 <style>.tbl-w{width:320px}</style>
 
-
-Problem Template
----
-- [Example](#)
-- [Example](#)
-- [Example](#)
 
 
 ###### tags: `#programming-hero` `#python`
