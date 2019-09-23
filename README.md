@@ -21,8 +21,5 @@
 |  2.5  | [Sum of digits](#)         |
 |  2.6  | [Coin sum](#)              |
 
-<style>.tbl-w{width:320px}</style>
-
-
 
 ###### tags: `#programming-hero` `#python`
