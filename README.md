@@ -4,7 +4,7 @@
 # Outline
 ---
 
-| No  | <div style="width:320px"> Description </div> |
+| No  | <div width="320px"> Description </div> |
 | --- | -------------------------------------------- |
 | 0   | [introduction](#)                            |
 | 1   | [Easy ones](#)                               |
