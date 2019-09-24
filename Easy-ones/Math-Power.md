@@ -2,7 +2,6 @@
 ## 1.2: Math Power
 
 **S-1: The problem**
-
 Take two numbers from the users. Calculate the result of second number power of the first number.
 
 <details>
@@ -42,5 +41,8 @@ print('Your result is: ', result)
 **[Try It:](/#)**
 
 &nbsp;
-###### tags: `programmig-hero` `python` `float` `int`
+[![Next Page](../assets/next-button.png)](Random-Number.md)
+&nbsp;
+
+###### tags: `programmig-hero` `python` `float` `int` `math`
 

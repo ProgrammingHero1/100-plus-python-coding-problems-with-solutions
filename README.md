@@ -4,7 +4,6 @@
 ### 1.1: User input to Number
 
 **S-1: The problem**
-
 Take two inputs from the user. One will be an integer. The other will be a float number. Then multiply them to display the output.
 
 <details>
@@ -41,11 +40,9 @@ print('Your result is: ', result)
 **[Try It:](/#)**
 &nbsp;
 #### S-5: Going Forward
-
 Going forward, we will write input and conversion in one line.
 
 #### S-6: Quiz
-
 Which one is used to convert string to a number?
 
 
@@ -60,7 +57,6 @@ Which one is used to convert string to a number?
 
 Use int or float to convert user input to a number.
 &nbsp;
-###### tags: `programmig-hero` `python` `float` `int`
-
-
 [![Next Page](assets/next-button.png)](/Easy-ones/Math-Power.md)
+&nbsp;
+###### tags: `programmig-hero` `python` `float` `int`
