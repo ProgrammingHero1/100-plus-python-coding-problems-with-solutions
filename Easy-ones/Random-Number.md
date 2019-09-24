@@ -39,7 +39,7 @@ How will you generate a random integer number?
 Use math.randomint to get a random integer.
 
 &nbsp;
-[![Next Page](../assets/next-button.png)](#)
+[![Next Page](../assets/next-button.png)](Floor-Division.md)
 &nbsp;
 
 ###### tags: `programmig-hero` `python` `float` `int` `math`
