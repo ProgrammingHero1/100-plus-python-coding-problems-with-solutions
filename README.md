@@ -62,5 +62,5 @@ Use int or float to convert user input to a number.
 &nbsp;
 ###### tags: `programmig-hero` `python` `float` `int`
 
-[NEXT PAGE](/Easy-ones/Math-Power.md)
+## [NEXT PAGE](/Easy-ones/Math-Power.md)
 ![NEXT PAGE](/assets/next-arrow.png)
