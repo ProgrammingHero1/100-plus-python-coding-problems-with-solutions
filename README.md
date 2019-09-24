@@ -64,4 +64,4 @@ Use int or float to convert user input to a number.
 
 
 ![NEXT PAGE](/assets/next-button.png)
-[![Next Page](/assets/next-button.png)](/Easy-ones/Math-Power.md)
+[![Next Page](assets/next-button.png)](/Easy-ones/Math-Power.md)
