@@ -55,7 +55,7 @@ Which one is used to convert string to a number?
 
 *S-7: Take Away*
 
-Use int or float to convert user input to a number.
+Use int or float to convert user input to a number. <br>
 &nbsp;
 [![Next Page](assets/next-button.png)](/Easy-ones/Math-Power.md)
 &nbsp;
