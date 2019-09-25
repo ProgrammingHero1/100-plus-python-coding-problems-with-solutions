@@ -12,7 +12,6 @@ Create a random number between 0 to 10
 
 ##### result = 4**3
 
-
 #### S-3: Solution
 
 ```python
@@ -21,9 +20,7 @@ import random
 random_num = random.randint(0,10)
 print(random_num)
 ```
-
-**[Try It:](/#)**
-&nbsp;
+**[Try It:](/https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 #### S-4: Quiz
 How will you generate a random integer number?

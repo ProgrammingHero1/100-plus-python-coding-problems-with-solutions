@@ -1,61 +1,65 @@
 # 100 Plus Python Coding Problems With Solutions
 ---
 
-### 1.1: User input to Number
+## 2. Page Outline
 
-**S-1: The problem**
-Take two inputs from the user. One will be an integer. The other will be a float number. Then multiply them to display the output.
+* **[0](Easy-ones/Math-Power.md "Introduction")** - &nbsp;&nbsp; **[Introduction](/Easy-ones/Math-Power.md)**
 
-<details>
-   <summary><b>S-2: Click Here For Show Hints</b></summary>
-   <p>Use input. By default, input gives you a string. Then use int and float to convert the input to a number. And then multiply them. <br><br>That’s it.</p>
- </details>
-<br>
+* **[1](# "Easy ones")** - &nbsp;&nbsp; **[Easy ones](/Easy-ones/User-input-to-Number.md)**
 
-#### S-3: Solution
+* **[1.1](Easy-ones/User-input-to-Number.md "Convert input")** - **[Convert input](/Easy-ones/User-input-to-Number.md)**
 
-```python
-int_text = input("Give me an integer number: ")
-int_num = int(int_text)
-float_text = input("Give me a float  number: ")
-float_num = float(float_text)
-result = int_num * float_num
-print("Your result is: ", result)
-```
+* **[1.2](Easy-ones/Math-Power.md "Math power")** - **[Math power](/Easy-ones/Math-Power.md)**
 
-**[Try It:](/#)**
+* **[1.3](Easy-ones/Math-Power.md "Floor Division")** - **[Floor Division](/Easy-ones/Random-Number.md)**
 
+* **[1.4](/Easy-ones/Floor-Division.md "Floor Division")** - **[Floor Division](/Easy-ones/Floor-Division.md)**
 
-#### S-4: Shortcut
-
-> You wrote input in one line and then in the next line you used int or float to convert the number. You can write the two lines in one line. Like below 
-
-```python
-int_num = int(input('Give me an integer number: '))
-float_num = float(input('Give me a float  number: '))
-result = int_num * float_num
-print('Your result is: ', result)
-```
-
-**[Try It:](/#)**
+* **[1.5](Easy-ones/Temporary-variable.md "Temporary variable")** - **[Temporary variable](/Easy-ones/Temporary-variable.md)**
 &nbsp;
-#### S-5: Going Forward
-Going forward, we will write input and conversion in one line.
 
-#### S-6: Quiz
-Which one is used to convert string to a number?
+* **[2](Number-Relate/Number-Related.md "Number Related")** - &nbsp;&nbsp; **[Number Related](/Easy-ones/Number-Related.md)**
+
+* **[2.1](Number-Relate "Max of two")** - **[Max of two](/Number-Relate)**
+
+* **[2.2](Easy-ones/Math-Power.md "Max of three")** - **[Max of three](/Easy-ones/User-input-to-Number.md)**
+
+* **[2.3](Easy-ones/Math-Power.md "Average of numbers")** - **[Average of numbers](/Easy-ones/Math-Power.md)**
+
+* **[2.4](# "Divisible by 3 and 5")** - **[Divisible by 3 and 5](/#)**
+
+* **[2.5](# "Sum of digits")** - **[Sum of digits](/#)**
+
+* **[2.6](# "Coin sum")** - **[Coin sum](/#)**
+
+## 0: Introduction
+
+### S-1: Welcome
+Welcome to the problem-solving galaxy. 
+
+#### S-2: Problem Solving
+
+> n this galaxy, we will focus on real-world coding related problem-solving.<br><br>The problem-solving means, we will take a small programming problem. We will think about the process of solving the problem and then we will solve it. 
+
+#### S-3: Explanation
+After the solution, we will explain the answer. Convey the concept and strategy to solve it. 
+
+#### S-4: Purpose
+Solving coding problems helps you to think about the problem. It will make you a better developer. Moreover, if you want to participate in a programming contest, you need to practice problem-solving. 
+
+#### S-5: Interview
+> Besides, large companies like Google, Facebook, Amazon, Uber, etc. ask a lot of problem-solving related questions in their job interview.<br><br>If you want to work any of these large companies, you should practice problem-solving.
 
 
-1. number
-2. convert
-3. int or float
+#### S-6: Many solutions
+Here we are focusing on the thinking and strategies to solve a problem. However, every problem could be solved in multiple ways. And other solutions could be better and faster. 
 
-**The answer is: 3**
+Always keep an open mind to learn multiple solutions to solve a problem.
 
+#### S-7: Let’s Start
+Let’s start your journey. Let’s solve every problem you face. 
 
-*S-7: Take Away*
-
-Use int or float to convert user input to a number. <br>
+*Let’s do it.*
 
 &nbsp;
 [![Next Page](assets/next-button.png)](Math-Power.md)
