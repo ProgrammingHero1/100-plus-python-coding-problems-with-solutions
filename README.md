@@ -70,7 +70,7 @@
 * **[6.3](Computations/Calculate-Grades.md "Calculate Grades)")** - **[Calculate Grades](Computations/Calculate-Grades.md)**
 
 * **[6.4](Computations/Gravitational-Force.md "Gravitational Force)")** - **[Gravitational Force](Computations/Gravitational-Force.md)**
-* 
+
 * **[6.5](Computations/Triangle-Area.md "Triangle Area)")** - **[Triangle Area](Computations/Triangle-Area.md)**
   
 
@@ -88,7 +88,6 @@ Welcome to the problem-solving galaxy.
 In this galaxy, we will focus on real-world coding related problem-solving. 
 
 The problem-solving means, we will take a small programming problem. We will think about the process of solving the problem and then we will solve it. 
-
 
 ### S-3: Explanation
 After the solution, we will explain the answer. Convey the concept and strategy to solve it. 
