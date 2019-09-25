@@ -23,7 +23,7 @@ Want to try it yourself first? Go to the code editor and try it.
  </details>
 <br>
 
-**[Try It:](/#)**
+**[Try It:](/https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 
 #### S-3: Solution
@@ -74,7 +74,7 @@ In the second approach, other than directly adding to the list, we are adding it
 > To get the average, calculate the total and divide by the number of elements.
 
 &nbsp;
-[![Next Page](../assets/next-button.png)](../README.md)
+[![Next Page](../assets/next-button.png)](Divisible-by-3-and-5.md)
 &nbsp;
 
 ###### tags: `programmig-hero` `python` `float` `int` `math` 

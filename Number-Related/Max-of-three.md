@@ -71,7 +71,7 @@ What is the easiest way to find out the largest number?
 Use the max function to get the largest number.
 
 &nbsp;
-[![Next Page](../assets/next-button.png)](Max-of-three.md)
+[![Next Page](../assets/next-button.png)](Average-of-numbers.md)
 &nbsp;
 
 ###### tags: `programmig-hero` `python` `float` `int` `math` 
