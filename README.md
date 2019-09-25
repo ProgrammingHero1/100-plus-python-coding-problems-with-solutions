@@ -16,8 +16,8 @@
 * **[1.4](/Easy-ones/Floor-Division.md "Floor Division")** - **[Floor Division](/Easy-ones/Floor-Division.md)**
 
 * **[1.5](Easy-ones/Temporary-variable.md "Temporary variable")** - **[Temporary variable](/Easy-ones/Temporary-variable.md)**
-&nbsp;
 
+&nbsp;
 * **[2](Number-Relate/Number-Related.md "Number Related")** - &nbsp; **[Number Related](/Easy-ones/Number-Related.md)**
 
 * **[2.1](Number-Relate "Max of two")** - **[Max of two](/Number-Relate)**
