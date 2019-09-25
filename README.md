@@ -17,20 +17,19 @@
 
 * **[1.5](Easy-ones/Temporary-variable.md "Temporary variable")** - **[Temporary variable](/Easy-ones/Temporary-variable.md)**
 
-&nbsp;
-* **[2](Number-Relate/Number-Related.md "Number Related")** - &nbsp; **[Number Related](/Easy-ones/Number-Related.md)**
+* **[2](Number-Relate/Number-Related.md "Number Related")** - &nbsp; **[Number Related](/Number-Related/Number-Related.md)**
 
 * **[2.1](Number-Relate "Max of two")** - **[Max of two](/Number-Relate)**
 
-* **[2.2](Easy-ones/Math-Power.md "Max of three")** - **[Max of three](/Easy-ones/User-input-to-Number.md)**
+* **[2.2](Number-Related/Math-Power.md "Max of three")** - **[Max of three](/Number-Related/User-input-to-Number.md)**
 
-* **[2.3](Easy-ones/Math-Power.md "Average of numbers")** - **[Average of numbers](/Easy-ones/Math-Power.md)**
+* **[2.3](Number-Related/Math-Power.md "Average of numbers")** - **[Average of numbers](/Number-Related/Math-Power.md)**
 
-* **[2.4](Divisible-by-3-and-5.md "Divisible by 3 and 5")** - **[Divisible by 3 and 5](/Divisible-by-3-and-5.md)**
+* **[2.4](Number-Related/Divisible-by-3-and-5.md "Divisible by 3 and 5")** - **[Divisible by 3 and 5](/Number-Related/Divisible-by-3-and-5.md)**
 
-* **[2.5](Sum-of-digits.md "Sum of digits")** - **[Sum of digits](/Sum-of-digits.md)**
+* **[2.5](Number-Related/Sum-of-digits.md "Sum of digits")** - **[Sum of digits](Number-Related/Sum-of-digits.md)**
 
-* **[2.6](Coin-sum.md "Coin sum")** - **[Coin sum](/Coin-sum.md)**
+* **[2.6](Number-Related/Coin-sum.md "Coin sum")** - **[Coin sum](Number-Related/Coin-sum.md)**
 
 ## 0: Introduction
 
