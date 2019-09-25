@@ -1,0 +1,51 @@
+## 4.4: Decimal to Binary (recursive) 
+
+### S-1: The Problem
+Convert a decimal number to binary number using a recursive function. 
+<details>
+ <summary><b>S-3: Click Here For Show Hints</b></summary>
+   <p>After coding for a while, recursive will become fun. Until then, recursive functions might feel like confusing magic. 
+
+So, don’t worry if you felt confused. You are not alone. I am in the same condition as well.</p>
+ </details>
+
+### S-3: Recursive
+
+```python=
+def dec_to_binary(n):
+   if n > 1:
+       dec_to_binary(n//2)
+   print(n % 2,end = '')
+```
+
+### decimal number
+```python=
+num = int(input("Your decimal number: "))
+dec_to_binary(num)
+print(" ")
+```
+
+**[Try It:](/https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
+
+### S-4: Explanation
+The core part of the logic is simple. If the number is greater than 1, call the dec_to_binary function again. And, while calling, send the result of dividing operation as the input number. 
+
+If you remember, the while loop in the previous code problem is similar. In the while loop, we were going back to the next iteration with n = n//2
+
+Here we are calling the same function with the n//2
+
+In the previous code problem (iterative), we are putting the remainder in a list. Here, we are printing it right away. 
+
+While printing, we have one extra thing called end=''. 
+The purpose of end='' is to print the output in the same line. If you don’t add end='', every print output will be displayed in a new line. 
+
+
+### S-6: Take Away
+There are multiple ways to format the print string. Google it, when needed.
+
+
+&nbsp;
+[![Next Page](../assets/next-button.png)](../README.md)
+&nbsp;
+
+###### tags: `programmig-hero` `python` `float` `int` `math`
