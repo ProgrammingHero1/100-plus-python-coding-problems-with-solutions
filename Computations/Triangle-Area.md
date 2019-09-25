@@ -61,7 +61,7 @@ The math module has a lot of math-related functionalities.
 
 
 &nbsp;
-[![Next Page](assets/next-button.png)](..README.md)
+[![Next Page](../assets/next-button.png)](..README.md)
 &nbsp;
 
 ###### tags: `programmig-hero` `python` `float` `int` `math`

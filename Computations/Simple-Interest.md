@@ -29,14 +29,9 @@ print("Simple interest is:", simple_interest)
 ### S-4: Explanation
 Read the code. I think you don’t need any extra explanation here. 
 
-&nbsp;
-[![Next Page](assets/next-button.png)](Math-Power.md)
-&nbsp;
-
-###### tags: `programmig-hero` `python` `float` `int` `math`
 
 &nbsp;
-[![Next Page](assets/next-button.png)](Complex-Interest.md)
+[![Next Page](../assets/next-button.png)](Complex-Interest.md)
 &nbsp;
 
 ###### tags: `programmig-hero` `python` `float` `int` `math`

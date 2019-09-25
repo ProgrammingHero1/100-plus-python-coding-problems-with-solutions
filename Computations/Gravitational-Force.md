@@ -37,7 +37,7 @@ The calculation is simple. Only two things need to be learned from this.
 
 
 &nbsp;
-[![Next Page](assets/next-button.png)](Triangle-Area.md)
+[![Next Page](../assets/next-button.png)](Triangle-Area.md)
 &nbsp;
 
 ###### tags: `programmig-hero` `python` `float` `int` `math`

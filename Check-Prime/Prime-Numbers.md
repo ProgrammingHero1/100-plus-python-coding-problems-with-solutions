@@ -56,7 +56,7 @@ There are other solutions to this problem as well. We encourage you to google, â
 A prime number is only divisible by 1 and the number itself. 
 
 &nbsp;
-[![Next Page](assets/next-button.png)](..README.md)
+[![Next Page](../assets/next-button.png)](..README.md)
 &nbsp;
 
 ###### tags: `programmig-hero` `python` `float` `int` `math`

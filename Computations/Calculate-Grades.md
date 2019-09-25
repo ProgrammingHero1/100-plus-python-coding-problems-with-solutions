@@ -38,7 +38,7 @@ Calculation of average is easy. Add them all and then divide by the count. As we
 After that, we are running a simple if-else to determine the grade. 
 
 &nbsp;
-[![Next Page](assets/next-button.png)](Gravitational-Force.md)
+[![Next Page](../assets/next-button.png)](Gravitational-Force.md)
 &nbsp;
 
 ###### tags: `programmig-hero` `python` `float` `int` `math`

@@ -40,7 +40,7 @@ To apply the same power on multiple things, put them inside parentheses and then
 
 
 &nbsp;
-[![Next Page](assets/next-button.png)](Calculate-Grades.md)
+[![Next Page](../assets/next-button.png)](Calculate-Grades.md)
 &nbsp;
 
 ###### tags: `programmig-hero` `python` `float` `int` `math`
