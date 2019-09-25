@@ -1,7 +1,7 @@
 
 ## 2.2 max of three
 
-**S-1: The problem**
+#### S-1: The problem
 Find the largest of the three numbers.
 
 <details>

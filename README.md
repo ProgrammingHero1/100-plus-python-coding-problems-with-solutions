@@ -17,6 +17,9 @@
 
 * **[1.5](Easy-ones/Temporary-variable.md "Temporary variable")** - **[Temporary variable](/Easy-ones/Temporary-variable.md)**
 
+
+
+
 * **[2](Number-Relate/Number-Related.md "Number Related")** - &nbsp; **[Number Related](/Number-Related/Number-Related.md)**
 
 * **[2.1](Number-Relate "Max of two")** - **[Max of two](/Number-Relate)**
@@ -29,7 +32,21 @@
 
 * **[2.5](Number-Related/Sum-of-digits.md "Sum of digits")** - **[Sum of digits](Number-Related/Sum-of-digits.md)**
 
-* **[2.6](Number-Related/Coin-sum.md "Coin sum")** - **[Coin sum](Number-Related/Coin-sum.md)**
+
+
+* **[3](Loop-Relate/Coin-sum.md "Loop Related")** - &nbsp; **[Loop Related](/Number-Related/Coin-sum.md)**
+  
+* **[3.1](Loop-Related/Coin-sum.md "Sum of elements")** - **[Sum of elements](Loop-Related/Coin-sum.md)**
+
+* **[3.2](Loop-Related/Largest-element-of-a-list.md "Largest element of a list")** - **[Largest element of a list](Loop-Related/Largest-element-of-a-list.md)**
+
+* **[3.3](Loop-Related/Sum-of-squares.md "Sum of squares")** - **[Sum of squares](Loop-Related/Sum-of-squares.md)**
+
+* **[3.4](Loop-Related/Second-Largest.md "Second Largest")** - **[Second Largest](Loop-Related/Second-Largest.md)**
+
+* **[3.5](Loop-Related/Second-smallest.md "Second Smallest")** - **[Second Smallest](Loop-Related/Second-smallest.md)**
+
+* **[3.6](Loop-Related/Remove-duplicate-Chars.md "Remove duplicate Chars")** - **[Remove duplicate Chars](Loop-Related/Remove-duplicate-Chars.md)**
 
 ## 0: Introduction
 

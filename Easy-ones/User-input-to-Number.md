@@ -3,7 +3,7 @@
 
 ### 1.1: User input to Number
 
-**S-1: The problem**
+#### S-1: The problem
 Take two inputs from the user. One will be an integer. The other will be a float number. Then multiply them to display the output.
 
 <details>

@@ -1,7 +1,7 @@
 
 ## 1.5: Swap two variables
 
-**S-1: The problem**
+#### S-1: The problem
 > Swap two variables.<br><br>To swap two variables: the value of the first variable will become the value of the second variable. On the other hand, the value of the second variable will become the value of the first variable. 
 
 <details>

@@ -1,7 +1,7 @@
 
 ## 2.3: Average of numbers
 
-**S-1: The problem**
+#### S-1: The problem
 Take numbers from a user and show the average of the numbers the user entered. 
 
 <details>

@@ -1,7 +1,7 @@
 
 ## 1.4: Floor division
 
-**S-1: The problem**
+#### S-1: The problem
 Find the floor division of two numbers. 
 
 <details>

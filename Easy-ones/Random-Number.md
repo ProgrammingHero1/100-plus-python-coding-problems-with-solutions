@@ -1,7 +1,7 @@
 
 ## 1.3: Create a random number
 
-**S-1: The problem**
+#### S-1: The problem
 Create a random number between 0 to 10
 
 <details>

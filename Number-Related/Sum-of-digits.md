@@ -1,7 +1,7 @@
 
 ## 3.1: Sum of Elements
 
-**S-1: The problem**
+#### S-1: The problem
 For a given list, get the sum of each number in the list
 
 <details>
@@ -63,7 +63,7 @@ What is the shortcut way to sum all the numbers in a list?
 Use the sum function to sum all the numbers in a list.
 
 &nbsp;
-[![Next Page](../assets/next-button.png)](../README.md)
+[![Next Page](../assets/next-button.png)](Coin-sum.md)
 &nbsp;
 
 ###### tags: `programmig-hero` `python` `float` `int` `math` 

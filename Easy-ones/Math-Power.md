@@ -1,7 +1,7 @@
 
 ## 1.2: Math Power
 
-**S-1: The problem**
+#### S-1: The problem
 Take two numbers from the users. Calculate the result of second number power of the first number.
 
 <details>

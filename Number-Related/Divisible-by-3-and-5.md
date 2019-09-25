@@ -1,7 +1,7 @@
 
 ## 2.4: Divisible by 3 and 5
 
-**S-1: The problem**
+#### S-1: The problem
 For a given number, find all the numbers smaller than the number. Numbers should be divisible by 3 and also by 5.
 
 <details>

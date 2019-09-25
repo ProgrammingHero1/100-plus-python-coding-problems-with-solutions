@@ -1,7 +1,7 @@
 
 ## 2.1 max of two
 
-**S-1: The problem**
+#### S-1: The problem
 Find the max number of two numbers.
 
 <details>
