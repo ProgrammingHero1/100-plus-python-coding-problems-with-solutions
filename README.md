@@ -18,8 +18,6 @@
 * **[1.5](Easy-ones/Temporary-variable.md "Temporary variable")** - **[Temporary variable](/Easy-ones/Temporary-variable.md)**
 
 
-
-
 * **[2](Number-Relate/Number-Related.md "Number Related")** - &nbsp; **[Number Related](/Number-Related/Number-Related.md)**
 
 * **[2.1](Number-Relate "Max of two")** - **[Max of two](/Number-Relate)**
@@ -30,11 +28,10 @@
 
 * **[2.4](Number-Related/Divisible-by-3-and-5.md "Divisible by 3 and 5")** - **[Divisible by 3 and 5](/Number-Related/Divisible-by-3-and-5.md)**
 
-* **[2.5](Number-Related/Sum-of-digits.md "Sum of digits")** - **[Sum of digits](Number-Related/Sum-of-digits.md)**
+* **[2.5](Number-Related/Sum-of-digits.md "Sum of digits")** - **[Sum of digits](Loop-Related/Sum-of-digits.md)**
 
 
-
-* **[3](Loop-Related/Coin-sum.md "Loop Related")** - &nbsp; **[Loop Related](/Loop-Related/Coin-sum.md)**
+* **[3](Loop-Related/Coin-sum.md "Loop Related")** - &nbsp; **[Loop Related](/Loop-Related/Sum-of-digits.md)**
   
 * **[3.1](Loop-Related/Coin-sum.md "Sum of elements")** - **[Sum of elements](Loop-Related/Coin-sum.md)**
 
