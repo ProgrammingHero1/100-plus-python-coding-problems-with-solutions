@@ -34,7 +34,7 @@
 
 
 
-* **[3](Loop-Relate/Coin-sum.md "Loop Related")** - &nbsp; **[Loop Related](/Number-Related/Coin-sum.md)**
+* **[3](Loop-Related/Coin-sum.md "Loop Related")** - &nbsp; **[Loop Related](/Loop-Related/Coin-sum.md)**
   
 * **[3.1](Loop-Related/Coin-sum.md "Sum of elements")** - **[Sum of elements](Loop-Related/Coin-sum.md)**
 
