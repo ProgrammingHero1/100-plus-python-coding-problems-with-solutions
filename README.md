@@ -3,17 +3,17 @@
 
 ## 2. Page Outline
 
-* #### 0 - Introduction
+* ### 0 - Introduction
 
-* #### 1.1 Easy ones **- 1-5**
+* ### 1 Easy ones **- 1-5**
 
-* #### 1.2 Convert input
+* ### 1.1 Convert input
 
-* **[1.2](Easy-ones/Math-Power.md "Math power")** - **[Math power](/Easy-ones/Math-Power.md)**
+* ### [1.2](Easy-ones/Math-Power.md "Math power") [Math power](/Easy-ones/Math-Power.md)
 
-* **[1.3](Easy-ones/Math-Power.md "Floor Division")** - **[Floor Division](/Easy-ones/Random-Number.md)**
+* ### [1.3](Easy-ones/Math-Power.md "Floor Division") [Floor Division](/Easy-ones/Random-Number.md)
 
-* **[1.4](/Easy-ones/Floor-Division.md "Floor Division")** - **[Floor Division](/Easy-ones/Floor-Division.md)**
+* ### [1.4](/Easy-ones/Floor-Division.md "Floor Division") [Floor Division](/Easy-ones/Floor-Division.md)
 
 * **[1.5](Easy-ones/Temporary-variable.md "Temporary variable")** - **[Temporary variable](/Easy-ones/Temporary-variable.md)** 
 
