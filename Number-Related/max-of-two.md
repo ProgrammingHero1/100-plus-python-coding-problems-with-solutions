@@ -25,7 +25,7 @@ else:
     largest = num1
 print("Largest number you entered is: ", largest)
 ```
-**[Try It:](/https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
+**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 #### S-4: Shortcut
 Another simple and alternative solution is to send the numbers to the max function.
@@ -35,7 +35,7 @@ num2 = int(input("Second number: "))
 largest = max(num1, num2)
 print("Largest number you entered is: ", largest)
 ```
-**[Try It:](/https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
+**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 #### S-5: Alternative Solution
 Another alternative approach is to use the floor method from the math module. If you pass a number with a fraction to the math.floor function, it will return you the integer part of the number. 
@@ -46,7 +46,7 @@ import math
 result = math.floor(3.4)
 print(result)
 ```
-**[Try It:](/https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
+**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 #### S-6: Alternative Solution
 Do you want to see your name in this app as a contributor?

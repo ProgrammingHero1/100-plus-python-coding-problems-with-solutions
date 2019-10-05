@@ -20,7 +20,7 @@ result = base_num ** power_num
 print('Your result is: ', result)
 ```
 
-**[Try It:](/https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
+**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 #### S-4: Think Different
 Python has a built-in function named pow [blue]. The pow is a short form of the word power. And you can pass 2 numbers to the pow function. It will give you the second number as a power of the first number. 
@@ -36,7 +36,7 @@ result = pow(base_num, power_num)
 print('Your result is: ', result)
 
 ```
-**[Try It:](/https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
+**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 &nbsp;
 [![Next Page](../assets/next-button.png)](Random-Number.md)

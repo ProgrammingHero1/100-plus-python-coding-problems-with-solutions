@@ -3,11 +3,11 @@
 
 ## 2. Page Outline
 
-* **[0](Easy-ones/Math-Power.md "Introduction")** - &nbsp; **[Introduction](/Easy-ones/Math-Power.md)**
+* #### 0 - Introduction
 
-* **[1](# "Easy ones")** - &nbsp; **[Easy ones](/Easy-ones/User-input-to-Number.md)** **-  1-5**
+* #### 1.1 Easy ones **- 1-5**
 
-* **[1.1](Easy-ones/User-input-to-Number.md "Convert input")** - **[Convert input](/Easy-ones/User-input-to-Number.md)**
+* #### 1.2 Convert input
 
 * **[1.2](Easy-ones/Math-Power.md "Math power")** - **[Math power](/Easy-ones/Math-Power.md)**
 

@@ -23,7 +23,7 @@ Want to try it yourself first? Go to the code editor and try it.
  </details>
 <br>
 
-**[Try It:](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
+**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 
 #### S-3: Solution
@@ -41,7 +41,7 @@ avg = total/len
 print("Average of elements you entered",round(avg,2))
 ```
 
-**[Try It:](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
+**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 #### S-4: Explanation
 First, ask the user how many numbers he/she wants to enter. Once we have the number, run a for loop. To collect the numbers. 
@@ -65,7 +65,7 @@ for i in range(0,len):
 avg = total/len
 print("Average of elements you entered",round(avg,2))
 ```
-**[Try It:](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
+**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 #### S-6: Explanation
 In the second approach, other than directly adding to the list, we are adding it to the total variable. And then we are dividing it by the number of input the user entered. 

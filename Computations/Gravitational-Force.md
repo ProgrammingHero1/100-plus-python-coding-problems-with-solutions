@@ -26,7 +26,7 @@ force =(G*mass1*mass2)/(r**2)
 print("The gravitational force is:", round(force, 5),"N")
 ```
  
-**[Try It:](/https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
+**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 ### S-4: Explanation
 The calculation is simple. Only two things need to be learned from this. 

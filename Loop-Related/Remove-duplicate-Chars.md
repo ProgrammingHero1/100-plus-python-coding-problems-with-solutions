@@ -24,7 +24,7 @@ user_input = input('what is your string:')
 no_duplicate = remove_duplicate(user_input)
 print('Without duplicate: ', no_duplicate)
 ```
-**[Try It:](/https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
+**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 #### S-4:  Explanation
 We just created a function. In the function, we are taking a string as an input. 

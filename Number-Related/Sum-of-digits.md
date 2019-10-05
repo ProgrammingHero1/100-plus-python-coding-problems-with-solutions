@@ -25,7 +25,7 @@ nums = [13,89,65,42,12,11,56]
 total = get_sum(nums)
 print("The total of each elements:",total)
 ```
-**[Try It:](/https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
+**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 #### S-4: Explanation
 It’s super simple. 

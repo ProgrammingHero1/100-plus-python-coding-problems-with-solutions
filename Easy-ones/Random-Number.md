@@ -20,7 +20,7 @@ import random
 random_num = random.randint(0,10)
 print(random_num)
 ```
-**[Try It:](/https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
+**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 #### S-4: Quiz
 How will you generate a random integer number?

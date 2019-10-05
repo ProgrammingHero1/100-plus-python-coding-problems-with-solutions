@@ -30,7 +30,7 @@ else:
    print('Your number is not a Prime')
 ```
 
-[try it: button]
+[Try it on Programming Hero button]
 
 ### S-4: Explanation
 The core part of the algorithm is the is_prime function. 

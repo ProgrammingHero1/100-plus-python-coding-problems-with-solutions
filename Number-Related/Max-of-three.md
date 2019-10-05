@@ -22,7 +22,7 @@ Think about it. And try yourself first. </p>
  </details>
 <br>
 
-**[Try It:](/https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
+**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 #### S-3: Solution
 ```python
@@ -42,7 +42,7 @@ else:
 print("Largest number you entered is: ",largest)
 ```
 
-**[Try It:](/https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
+**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 #### S-4: Shortcut
 Another simple and alternative solution is to send the numbers to the max function. 
@@ -56,7 +56,7 @@ largest = max(num1, num2, num3)
 print("Largest number you entered is: ",largest)
 ```
 
-**[Try It:](/https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
+**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 #### S-5: Quiz
 What is the easiest way to find out the largest number?

@@ -56,7 +56,7 @@ num = int(input("Your decimal number: "))
 binary = dec_to_binary(num)
 print("Your binary is:", binary)
 ```
-**[Try It:](/https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
+**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 ### S-5: Explanation
 You have seen the remainder and dividing the number with // before. That is the core part of this decimal to a binary algorithm. 

@@ -30,7 +30,7 @@ elif avg >=60:
 else:
    print("Grade: F")
 ```
-**[Try It:](/https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
+**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 ### S-4: Explanation
 Calculation of average is easy. Add them all and then divide by the count. As we are taking numbers for 5 subjects we are dividing the total by 5. 

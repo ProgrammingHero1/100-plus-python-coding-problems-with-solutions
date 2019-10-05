@@ -27,7 +27,7 @@ sum = square_sum(num)
 
 print('sum of square numbers is ', sum)
 ```
-**[Try It:](/https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
+**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 #### S-4: Explanation
 This one is super easy. You declared a variable sum with an initial value 0.
@@ -44,13 +44,13 @@ If needed, go to the code editor and run the following code.
 for i in range(10):
 	print(i)
 ```
-**[Try It:](/https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
+**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 And then run
 ```python
 for i in range(11):
 	print(i)
 ```
-**[Try It:](/https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
+**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 
 #### S-5: Shortcut
@@ -72,7 +72,7 @@ num = int(input('Enter a number: '))
 sum = sum_of_square2(num)
 print('Your sum of Square is: ', sum)
 ```
-**[Try It:](/https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
+**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 #### S-6: Quiz
 

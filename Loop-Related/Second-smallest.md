@@ -27,7 +27,7 @@ my_nums = [44,11,83,29,25,76,88]
 second_smallest = get_second_smallest(my_nums)
 print("Second smallest number is : ", second_smallest)
 ```
-**[Try It:](/https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
+**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 #### S-4: Explanation
 We declared two variables. One is called the smallest. Another one is second_smallest. We started both with the value of the first element of the list. 
@@ -57,7 +57,7 @@ second_smallest = min(nums)
 print(second_smallest)
 ```
 
-**[Try It:](/https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
+**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 #### S-7: Take Away
 If you know multiple solutions to a problem, you can apply the right solution based on the situation.

@@ -21,7 +21,7 @@ fahrenheit = celsius*9/5+32
 print("Temperature in Fahrenheit:", fahrenheit)
 ```
  
-**[Try It:](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
+**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 &nbsp;
 [![Next Page](../assets/next-button.png)](../README.md)

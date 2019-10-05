@@ -24,7 +24,7 @@ simple_interest = principle * (interest_rate/100) * time
 print("Simple interest is:", simple_interest)
 ```
 
-**[Try It:](/https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
+**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 ### S-4: Explanation
 Read the code. I think you don’t need any extra explanation here. 

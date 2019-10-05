@@ -13,7 +13,7 @@ For a given number, find all the numbers smaller than the number. Numbers should
  </details>
 <br>
 
-**[Try It:](/https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
+**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 #### S-3: Solution
 ```python
@@ -29,7 +29,7 @@ result = divisible_by_3and5(num)
 print(result)
 ```
 
-**[Try It:](/https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
+**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 #### S-4: Explanation
 This one is easy. We took an input number from the user, and then pass it to a function. 

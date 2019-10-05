@@ -25,7 +25,7 @@ dec_to_binary(num)
 print(" ")
 ```
 
-**[Try It:](/https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
+**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 ### S-4: Explanation
 The core part of the logic is simple. If the number is greater than 1, call the dec_to_binary function again. And, while calling, send the result of dividing operation as the input number. 

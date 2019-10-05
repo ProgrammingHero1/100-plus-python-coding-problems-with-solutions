@@ -26,7 +26,7 @@ total_due = compound_interest(principle, interest_rate, time)
 print("Interest Amount is:", total_due)
 ```
 
-**[Try It:](/https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
+**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 ### S-4: Explanation
 Inside the function, just look into the power calculation. 
