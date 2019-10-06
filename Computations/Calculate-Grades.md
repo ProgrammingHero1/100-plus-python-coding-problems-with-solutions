@@ -1,14 +1,14 @@
 ## 6.3 Calculate grades
 
-### S-1: The problem
+###  The problem
 Calculate grade of five subjects. 
 
-### S-2: Hint
+###   Hint
 So, you have to take five inputs. These will be the marks of five subjects. Then, create the average. 
 
 Once you have the average. It just running an if-else. And decide the grade. 
 
-### S-3: The Solution
+###   The Solution
 ```python
 print('Enter your marks:')
 sub1=int(input("First subject: "))
@@ -32,7 +32,7 @@ else:
 ```
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-### S-4: Explanation
+###   Explanation
 Calculation of average is easy. Add them all and then divide by the count. As we are taking numbers for 5 subjects we are dividing the total by 5. 
 
 After that, we are running a simple if-else to determine the grade. 

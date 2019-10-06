@@ -1,7 +1,7 @@
 
 ## 3.4 Second Largest
 
-#### S-1: The problem
+####  The problem
 For a list, find the second largest number in the list.
 
 <details>
@@ -10,7 +10,7 @@ For a list, find the second largest number in the list.
  </details>
 <br>
 
-#### S-3: Solution
+####   Solution
 ```python
 def get_second_largest(nums):
    largest = nums[0]
@@ -29,7 +29,7 @@ print("Second highest number is : ",second_largest)
 ```
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-#### S-4: Explanation
+####   Explanation
 We declared two variables. One is called the largest. Another one is second_largest. We started both with the value of the first element of the list. 
 
 Then we ran a for loop on range. The range looks like range(1, len(nums)). We started the list with 1 because we already set the first value as the largest and second_largest. Then the upper value of the range is len(nums). 
@@ -42,7 +42,7 @@ On the other hand, if the current value is greater than the current second large
 
 That's it.
 
-#### S-5: Think Different
+####   Think Different
 Can you think about any way to solve this problem?
 
 One clever solution could be, 
@@ -65,7 +65,7 @@ print(second_largest)
 
 The answer is: 
 
-#### S-7: Take Away
+####   Take Away
 Clever ways to solve problems will make you happier.
 
 &nbsp;

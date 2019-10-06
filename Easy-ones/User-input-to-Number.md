@@ -3,7 +3,7 @@
 
 ### 1.1: User input to Number
 
-#### S-1: The problem
+####  The problem
 Take two inputs from the user. One will be an integer. The other will be a float number. Then multiply them to display the output.
 
 <details>
@@ -12,7 +12,7 @@ Take two inputs from the user. One will be an integer. The other will be a float
  </details>
 <br>
 
-#### S-3: Solution
+####   Solution
 ```python
 int_text = input("Give me an integer number: ")
 int_num = int(int_text)
@@ -24,7 +24,7 @@ print("Your result is: ", result)
 
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-#### S-4: Shortcut
+####   Shortcut
 > You wrote input in one line and then in the next line you used int or float to convert the number. You can write the two lines in one line. Like below 
 
 ```python
@@ -36,10 +36,10 @@ print('Your result is: ', result)
 
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-#### S-5: Going Forward
+####   Going Forward
 Going forward, we will write input and conversion in one line.
 
-#### S-6: Quiz
+####   Quiz
 Which one is used to convert string to a number?
 
 
@@ -47,7 +47,10 @@ Which one is used to convert string to a number?
 2. convert
 3. int or float
 
-**The answer is: 3**
+<details>
+ <summary><b>Show Answer</b></summary>
+   <p>The answer is : 3</p>
+ </details>
 
 *S-7: Take Away*
 

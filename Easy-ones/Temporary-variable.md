@@ -1,7 +1,7 @@
 
 ## 1.5: Swap two variables
 
-#### S-1: The problem
+####  The problem
 > Swap two variables.<br><br>To swap two variables: the value of the first variable will become the value of the second variable. On the other hand, the value of the second variable will become the value of the first variable. 
 
 <details>
@@ -10,7 +10,7 @@
  </details>
 <br>
 
-#### S-3: Solution
+####   Solution
 
 ```python
 a = 5
@@ -24,7 +24,7 @@ print('a, b', a, b)
 ```
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-## S-4: Shortcut
+##   Shortcut
 You can use a python shortcut to swap two variables as well. How this works, would be a little bit tricky for you. So, for now, just remember it.
 
 ```python
@@ -37,7 +37,7 @@ print('x, y', x, y)
 ```
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-#### S-5: Another solution
+####   Another solution
 If both the variable is number, you can apply other tricks. Like the one below-
 
 ```python
@@ -52,14 +52,17 @@ print('a, b', a, b)
 ```
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-#### S-6: Quiz
+####   Quiz
 How would you swap two variables?
 
 1. Using two temporary variables
 2. My family doesn’t permit swapping
 3. Use something like: a, b= b, a
 
-**The answer is: 3**
+<details>
+ <summary><b>Show Answer</b></summary>
+   <p>The answer is : 3</p>
+ </details>
 
 *S-7: Take Away*
 Use temp variable to swap two variables. <br>

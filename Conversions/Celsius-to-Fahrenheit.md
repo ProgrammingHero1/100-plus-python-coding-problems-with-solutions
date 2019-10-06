@@ -1,6 +1,6 @@
 ## 4.2 Celsius to Fahrenheit
 
-### S-1: The problem
+###  The problem
 Take the temperature in degrees Celsius and convert it to Fahrenheit.
 
 <details>
@@ -12,7 +12,7 @@ Take the temperature in degrees Celsius and convert it to Fahrenheit.
 
 Think for a second...How will you multiply a variable by 9 and then divide by 5? and then add 32. Can you do it without looking at the solution? 
 
-### S-3: The solution
+###   The solution
 ```python
 celsius = float(input("Enter temperature in degrees Celsius: "))
  

@@ -1,7 +1,7 @@
 
 ## 1.3: Create a random number
 
-#### S-1: The problem
+####  The problem
 Create a random number between 0 to 10
 
 <details>
@@ -12,7 +12,7 @@ Create a random number between 0 to 10
 
 ##### result = 4**3
 
-#### S-3: Solution
+####   Solution
 
 ```python
 import random
@@ -22,14 +22,17 @@ print(random_num)
 ```
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-#### S-4: Quiz
+####   Quiz
 How will you generate a random integer number?
 
 1. math.random
 2. math.randint
 3. random.randomint
 
-**The answer is: 2**
+<details>
+ <summary><b>Show Answer</b></summary>
+   <p>The answer is : 2</p>
+ </details>
 
 *S-5: Take Away*
 

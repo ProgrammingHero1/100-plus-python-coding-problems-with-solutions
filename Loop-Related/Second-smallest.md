@@ -1,7 +1,7 @@
 
 ## 3.5 Second smallest element
 
-#### S-1: The problem
+####  The problem
 For a list, find the second smallest element in the list
 
 <details>
@@ -10,7 +10,7 @@ For a list, find the second smallest element in the list
  </details>
 <br>
 
-#### S-3: Solution
+####   Solution
 ```python
 def get_second_smallest(nums):
    smallest = nums[0]
@@ -29,7 +29,7 @@ print("Second smallest number is : ", second_smallest)
 ```
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-#### S-4: Explanation
+####   Explanation
 We declared two variables. One is called the smallest. Another one is second_smallest. We started both with the value of the first element of the list. 
 
 Then we ran a for loop on the range. The range looks like range(1, len(nums)). We started the list with 1 because we already set the first value as the smallest and the second smallest. Then the upper value of the range is len(num). 
@@ -42,13 +42,13 @@ On the other hand, if the current value is smaller than the current second small
 
 That's it.
 
-#### S-5: Think DIfferent
+####   Think DIfferent
 
 You can use the previous clever solution to find the second smallest number as well. 
 
 Please note that, by removing an element from the list, you are changing the original list. If you don’t want to modify the list (you might need the list for other operations), you should use the comparison method. 
 
-#### S-6: Clever Solution
+####   Clever Solution
 
 ```python
 nums = [2, 15, 14, 71, 52, 209, 551]
@@ -59,7 +59,7 @@ print(second_smallest)
 
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-#### S-7: Take Away
+####   Take Away
 If you know multiple solutions to a problem, you can apply the right solution based on the situation.
 
 &nbsp;

@@ -1,7 +1,7 @@
 
 ## 3.1: Sum of Elements
 
-#### S-1: The problem
+####  The problem
 For a given list, get the sum of each number in the list
 
 <details>
@@ -11,7 +11,7 @@ For a given list, get the sum of each number in the list
  </details>
 <br>
 
-#### S-3: Solution
+####   Solution
 ```python
 def get_sum(nums):
    sum = 0
@@ -27,7 +27,7 @@ print("The total of each elements:",total)
 ```
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-#### S-4: Explanation
+####   Explanation
 It’s super simple. 
 
 You got a list. Loop through the list. You have done that multiple times while learning Fundamentals. 
@@ -39,7 +39,7 @@ And then finally return the sum.
 That’s it. 
 Super easy. Even your grandma can do it.
 
-#### S-5: Shortcut
+####   Shortcut
 There is an easier way to get sum of all numbers in a list. You can just pass the list of numbers to the sum function.
 
 ```python
@@ -49,17 +49,19 @@ total = sum(nums)
 print(total)
 ```
 
-#### S-6: Quiz
+####   Quiz
 What is the shortcut way to sum all the numbers in a list?
 
 1. Loop through the items
 2. Use the sum function
 3. Use a calculator
 
+<details>
+ <summary><b>Show Answer</b></summary>
+   <p>The answer is : 2</p>
+ </details>
 
-**The answer is: 2**
-
-#### S-7: Take Away
+####   Take Away
 Use the sum function to sum all the numbers in a list.
 
 &nbsp;

@@ -1,7 +1,7 @@
 
 ## 2.2 max of three
 
-#### S-1: The problem
+####  The problem
 Find the largest of the three numbers.
 
 <details>
@@ -24,7 +24,7 @@ Think about it. And try yourself first. </p>
 
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-#### S-3: Solution
+####   Solution
 ```python
 num1 = int(input("First number: "))
 num2 = int(input("Second number: "))
@@ -44,7 +44,7 @@ print("Largest number you entered is: ",largest)
 
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-#### S-4: Shortcut
+####   Shortcut
 Another simple and alternative solution is to send the numbers to the max function. 
 ```python
 num1 = int(input("First number: "))
@@ -58,16 +58,19 @@ print("Largest number you entered is: ",largest)
 
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-#### S-5: Quiz
+####   Quiz
 What is the easiest way to find out the largest number?
 
 1. Use multiple if-else conditions
 2. Use the max function
 3. All numbers are created equal
 
-**The answer is: 2**
+<details>
+ <summary><b>Show Answer</b></summary>
+   <p>The answer is : 2</p>
+ </details>
 
-#### S-6: Take Away
+####   Take Away
 Use the max function to get the largest number.
 
 &nbsp;

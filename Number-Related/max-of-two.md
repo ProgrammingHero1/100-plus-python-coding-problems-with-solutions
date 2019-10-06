@@ -1,7 +1,7 @@
 
 ## 2.1 max of two
 
-#### S-1: The problem
+####  The problem
 Find the max number of two numbers.
 
 <details>
@@ -15,7 +15,7 @@ Think about it and try yourself first.
  </details>
 <br>
 
-#### S-3: Solution
+####   Solution
 ```python
 num1 = int(input("First number: "))
 num2 = int(input("Second number: "))
@@ -27,7 +27,7 @@ print("Largest number you entered is: ", largest)
 ```
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-#### S-4: Shortcut
+####   Shortcut
 Another simple and alternative solution is to send the numbers to the max function.
 ```python
 num1 = int(input("First number: "))
@@ -37,7 +37,7 @@ print("Largest number you entered is: ", largest)
 ```
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-#### S-5: Alternative Solution
+####   Alternative Solution
 Another alternative approach is to use the floor method from the math module. If you pass a number with a fraction to the math.floor function, it will return you the integer part of the number. 
 
 For example, 
@@ -48,7 +48,7 @@ print(result)
 ```
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-#### S-6: Alternative Solution
+####   Alternative Solution
 Do you want to see your name in this app as a contributor?
 
 If yes, find a better solution or alternative solution of any of the problems here. Then, send your solution with a code explanation to programming.hero1@gmail.com

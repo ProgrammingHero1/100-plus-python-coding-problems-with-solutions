@@ -1,7 +1,7 @@
 
 ## 2.3: Average of numbers
 
-#### S-1: The problem
+####  The problem
 Take numbers from a user and show the average of the numbers the user entered. 
 
 <details>
@@ -26,7 +26,7 @@ Want to try it yourself first? Go to the code editor and try it.
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 
-#### S-3: Solution
+####   Solution
 ```python
 len = int(input("How many numbers do you want to enter? "))
  
@@ -43,7 +43,7 @@ print("Average of elements you entered",round(avg,2))
 
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-#### S-4: Explanation
+####   Explanation
 First, ask the user how many numbers he/she wants to enter. Once we have the number, run a for loop. To collect the numbers. 
 
 While collecting the numbers, we are adding those in the list called nums.
@@ -52,7 +52,7 @@ Then we pass the list to the sum function. The sum function returns us the sum o
 
 Eventually, we divide the total by the number of elements to get the average.
 
-#### S-5: Another Solution
+####   Another Solution
 ```python
 len=int(input("How many numbers you want to enter: "))
  
@@ -67,10 +67,10 @@ print("Average of elements you entered",round(avg,2))
 ```
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-#### S-6: Explanation
+####   Explanation
 In the second approach, other than directly adding to the list, we are adding it to the total variable. And then we are dividing it by the number of input the user entered. 
 
-#### S-7: Take Away
+####   Take Away
 > To get the average, calculate the total and divide by the number of elements.
 
 &nbsp;

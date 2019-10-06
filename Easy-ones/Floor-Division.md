@@ -1,7 +1,7 @@
 
 ## 1.4: Floor division
 
-#### S-1: The problem
+####  The problem
 Find the floor division of two numbers. 
 
 <details>
@@ -13,7 +13,7 @@ Find the floor division of two numbers.
 
 > So, you have to find the integer part of the division operation.
 
-#### S-3: Solution
+####   Solution
 
 ```python
 num1 = int(input('Enter the first number: '))
@@ -25,14 +25,14 @@ print(result)
 
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-#### S-4: Explanation
+####   Explanation
 When you divide one number by another you get two things. One is called the integer part of the division. Another is the remainder. 
 
 To get the quotient (result without the remainder), you can use two-division symbols. 
 
 print(37//10)
 
-#### S-5: Think different
+####   Think different
 Another alternative approach is to use the floor method from the math module. If you pass a number with a fraction to the math.floor function, it will return you the integer part of the number. 
 
 For example, 
@@ -43,7 +43,7 @@ print(result)
 ```
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-#### S-6: Alternative Solution
+####   Alternative Solution
 Now, you can use the floor function to get the floor the division. Like below-
 ```python
 import math
@@ -55,16 +55,19 @@ print(result)
 ```
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-#### S-7: Quiz
+####   Quiz
 How will you get a floor division?
 
 1. //
 2. /
 3. %
+  
+<details>
+ <summary><b>Show Answer</b></summary>
+   <p>The answer is : 1</p>
+ </details>
 
-**The answer is: 1**
-
-#### S-8: Take Away
+####   Take Away
 Use // to get floor division.
 
 &nbsp;

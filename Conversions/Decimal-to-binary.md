@@ -1,9 +1,9 @@
 ## 4.4: Decimal to Binary
 
-### S-1: The Problem
+###  The Problem
 Convert a decimal number to binary number. 
 
-### S-2: Decimal vs Binary
+###   Decimal vs Binary
 
 The numbers that we use every day is called decimal number. A decimal number could have any of the 10 digits (0, 1, 2, 3, 4,5 6, 7, 8, 9). 
 
@@ -34,7 +34,7 @@ Then you will reverse the list.
 Finally, you have to put the binary bits (0 and 1) in one number to get the final binary. </p>
  </details>
 
-### S-4: Solution
+###   Solution
 I looked into the below code 7 times to understand. Still trying to figure it out...So, spend some time here to look at the code:
 
 ```python
@@ -58,7 +58,7 @@ print("Your binary is:", binary)
 ```
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-### S-5: Explanation
+###   Explanation
 You have seen the remainder and dividing the number with // before. That is the core part of this decimal to a binary algorithm. 
 
 So, this part should be easier for you:
@@ -89,16 +89,19 @@ Try to read this explanation and code multiple times. And, if needed, come back 
 If you keep trying and revisiting , again and again, these will start making sense.
 
 
-### S-6: Quiz
+###   Quiz
 
 1. What is a binary number?
 2. Numbers written on a trash bin
 3. Numbers that use 0,1 only
 4. Numbers with any 2 digits
 
-#### The answer is : 2
+<details>
+ <summary><b>Show Answer</b></summary>
+   <p>The answer is : 2</p>
+ </details>
 
-### S-7: Take Away
+###   Take Away
 Binary numbers use 0 and 1 only. 
 
 

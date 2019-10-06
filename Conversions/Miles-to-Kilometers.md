@@ -1,6 +1,6 @@
 ## 4.1: Miles to Kilometers
 
-#### S-1: The Problem
+####  The Problem
 Convert miles to kilometers.
 
 <details>
@@ -12,7 +12,7 @@ Convert miles to kilometers.
 Now, think what you can do with this information. </p>
  </details>
 
-### S-3: The solution
+###   The solution
 
 ```python
 miles = float(input("Enter distance in miles: "))
@@ -22,7 +22,7 @@ print("Distance in Kilometers:", kilometers)
  
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-### S-4: Explanation
+###   Explanation
 Just take a number from the user. Allow the user to enter a float number. Then, multiply that number by 1.609344. Keep the multiplication in the kilometers variable. 
 
 The kilometers is your answer. 
