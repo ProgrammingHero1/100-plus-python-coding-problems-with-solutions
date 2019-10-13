@@ -32,7 +32,7 @@
 * **[4.1](Conversions/Celsius-to-Fahrenheit.md "Miles to Kilometers")** - **[Miles to Kilometers](Conversions/Celsius-to-Fahrenheit.md)**
 * **[4.2](Conversions/Decimal-to-binary.md "Celsius to Fahrenheit")** - **[Celsius to Fahrenheitt](Conversions/Decimal-to-binary.md)**
 * **[4.3](Conversions/Decimal-to-binary-recursive.md "Decimal to binary")** - **[Decimal to binary](Conversions/Decimal-to-binary-recursive.md)**
-* **[4.4](Conversions/ "Decimal to binary (recursive)")** - **[Decimal to binary (recursive)](Conversions/)**
+* **[4.4](Conversions/Decimal-to-binary-recursive.md "Decimal to binary (recursive)")** - **[Decimal to binary (recursive)](Conversions/Decimal-to-binary-recursive.md)**
 * **[4.5](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp "Binary to decimal")** - **[Binary to decimal](premium)** **- Premium Access**
 
 * ### [5](Solution-Strategy.md "Solution Strategy") -&nbsp; [Solution Strategy](Solution-Strategy.md) 
