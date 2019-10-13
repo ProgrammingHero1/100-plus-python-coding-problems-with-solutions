@@ -1,16 +1,14 @@
 
-## 3.2 Largest element of a list
+# Largest element of a list
 
-####  The problem
+## The problem
 Find the largest element of a list.
 
-<details>
- <summary><b>S-2: Click Here For Show Hints</b></summary>
-   <p>Take the first element as the largest number. Then loop through the list and compare each element.
- </details>
-<br>
+## Hints
+Take the first element as the largest number. Then loop through the list and compare each element.
+ 
 
-####   Solution
+## Solution
 ```python
 def get_largest(nums):
    largest = nums[0]
@@ -27,7 +25,7 @@ print('The largest number is: ', largest)
 ```
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-####   Explanation
+## Explanation
 In the beginning, consider the first element of the list as the largest element. 
 
 Don’t set the largest value to 0. If every number in the list is a negative number, your return will be wrong. 
@@ -36,7 +34,7 @@ Then just loop through the list and compare. If the current number is greater th
 
 That’s it. Easy peasy. 
 
-####   Shortcut
+## Shortcut
 One shortcut is to  pass a list of numbers to the max function. This will return the largest number in the list.
 
 ```python
@@ -47,14 +45,14 @@ print(largest)
 ```
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-####   Quiz
+## Quiz
 What is the easiest way to find the largest number in a list?
 1. Use the max function
 2. Use the min function
 3. Use the sum function
 
 
-####   Take Away
+## Take Away
 
 Use the max function to get the largest number in a list.
 

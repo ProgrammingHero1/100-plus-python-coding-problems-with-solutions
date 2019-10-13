@@ -1,16 +1,13 @@
-## 4.4: Decimal to Binary (recursive) 
+# 4.4: Decimal to Binary (recursive) 
 
-###  The Problem
+## The Problem
 Convert a decimal number to binary number using a recursive function. 
-<details>
- <summary><b>S-3: Click Here For Show Hints</b></summary>
-   <p>After coding for a while, recursive will become fun. Until then, recursive functions might feel like confusing magic. 
+###  Hints 
+After coding for a while, recursive will become fun. Until then, recursive functions might feel like confusing magic. 
 
-So, don’t worry if you felt confused. You are not alone. I am in the same condition as well.</p>
- </details>
+So, don’t worry if you felt confused. You are not alone. I am in the same condition as well.
 
-###   Recursive
-
+## Recursive
 ```python=
 def dec_to_binary(n):
    if n > 1:
@@ -18,7 +15,7 @@ def dec_to_binary(n):
    print(n % 2,end = '')
 ```
 
-### decimal number
+## decimal number
 ```python=
 num = int(input("Your decimal number: "))
 dec_to_binary(num)
@@ -27,7 +24,7 @@ print(" ")
 
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-###   Explanation
+## Explanation
 The core part of the logic is simple. If the number is greater than 1, call the dec_to_binary function again. And, while calling, send the result of dividing operation as the input number. 
 
 If you remember, the while loop in the previous code problem is similar. In the while loop, we were going back to the next iteration with n = n//2
@@ -40,7 +37,7 @@ While printing, we have one extra thing called end=''.
 The purpose of end='' is to print the output in the same line. If you don’t add end='', every print output will be displayed in a new line. 
 
 
-###   Take Away
+## Take Away
 There are multiple ways to format the print string. Google it, when needed.
 
 

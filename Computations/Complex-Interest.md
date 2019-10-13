@@ -1,6 +1,6 @@
-## 6.2: Compound Interest
+# 6.2: Compound Interest
 
-###  The Problem
+## The Problem
 Take money borrowed, interest and duration as input. Then, compute the compound interest rate.
 
 ###   Hint
@@ -10,7 +10,7 @@ A = P(1+r/100)t
 
 Here, P is the principal amount; it is the amount that you borrowed. r is the interest rate in percentage and t is the time.
 
-###   Solution
+## Solution
 
 ```python
 def compound_interest(principle, rate, time):
@@ -28,14 +28,14 @@ print("Interest Amount is:", total_due)
 
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-###   Explanation
+## Explanation
 Inside the function, just look into the power calculation. 
 
 **(1 + rate / 100)  time**
 
 Rest of the part should be easy for you. 
 
-###   Take Away
+##  Take Away
 To apply the same power on multiple things, put them inside parentheses and then apply the power. 
 
 

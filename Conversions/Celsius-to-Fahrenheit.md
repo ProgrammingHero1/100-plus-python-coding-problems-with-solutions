@@ -1,18 +1,17 @@
-## 4.2 Celsius to Fahrenheit
+# 4.2 Celsius to Fahrenheit
 
-###  The problem
+## The problem
 Take the temperature in degrees Celsius and convert it to Fahrenheit.
 
-<details>
- <summary><b>S-2: Click Here For Show Hints</b></summary>
-   <p>To convert degrees Celsius temperature to Fahrenheit, you have to multiply by 9 and divide by 5.
+## Hins:
+  To convert degrees Celsius temperature to Fahrenheit, you have to multiply by 9 and divide by 5.
    
-   And then, add 32.</p>
- </details>
+   And then, add 32.
+
 
 Think for a second...How will you multiply a variable by 9 and then divide by 5? and then add 32. Can you do it without looking at the solution? 
 
-###   The solution
+## The solution
 ```python
 celsius = float(input("Enter temperature in degrees Celsius: "))
  

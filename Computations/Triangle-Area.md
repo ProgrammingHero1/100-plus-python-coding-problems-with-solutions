@@ -1,10 +1,10 @@
 ## Triangle Area
 ---
 
-### The Problem 
+# The problem 
 Take three sides of a triangle. And then calculate the area of the triangle. 
 
-### How it works 
+## How it works 
 To calculate the area of the triangle. First, calculate the half of the perimeter. Here perimeter is the sum of each side of the triangle.
 
 Let’s call it s. 
@@ -16,7 +16,7 @@ s = (a+b+c)/2
 area = √(s(s-a)*(s-b)*(s-c))
 ```
 
-### the code
+## the code
 ```python
 import math
 
@@ -33,7 +33,7 @@ print('Area of your triangle is ', area)
 ```
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-### Explanation
+## Explanation
 To calculate the square root. We used the math module. And call math.sqrt. 
 
 ```python
@@ -47,7 +47,7 @@ Similarly, math.sqrt(25) will give 5 as output.
 
 This is something new you have learned this time. 
 
-### Quiz
+## Quiz
 
 How would you calculate the square root of a number. 
 1. Use math.square.root
@@ -59,7 +59,7 @@ How would you calculate the square root of a number.
    <p>The answer is: 3</p>
  </details>
 
-### Take Away
+## take Away
 The math module has a lot of math-related functionalities. 
 
 

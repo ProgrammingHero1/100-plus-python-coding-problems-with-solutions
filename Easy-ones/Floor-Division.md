@@ -1,19 +1,17 @@
 
-## 1.4: Floor division
+# Floor division
 
-####  The problem
+## The problem
 Find the floor division of two numbers. 
 
-<details>
-   <summary><b>S-2: Click Here For Show Hints</b></summary>
-   <p>Floor division means the integer part of a division operation. For example, if you divide 17/5 the quotient will be 3.4. </p>
- </details>
+## Hints
+Floor division means the integer part of a division operation. For example, if you divide 17/5 the quotient will be 3.4.
 
 **Here the integer part is 3.**
 
 > So, you have to find the integer part of the division operation.
 
-####   Solution
+## Solution
 
 ```python
 num1 = int(input('Enter the first number: '))
@@ -25,14 +23,14 @@ print(result)
 
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-####   Explanation
+## Explanation
 When you divide one number by another you get two things. One is called the integer part of the division. Another is the remainder. 
 
 To get the quotient (result without the remainder), you can use two-division symbols. 
 
 print(37//10)
 
-####   Think different
+## Think different
 Another alternative approach is to use the floor method from the math module. If you pass a number with a fraction to the math.floor function, it will return you the integer part of the number. 
 
 For example, 
@@ -55,7 +53,7 @@ print(result)
 ```
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-####   Quiz
+## Quiz
 How will you get a floor division?
 
 1. //
@@ -67,7 +65,7 @@ How will you get a floor division?
    <p>The answer is : 1</p>
  </details>
 
-####   Take Away
+## Take Away
 Use // to get floor division.
 
 &nbsp;

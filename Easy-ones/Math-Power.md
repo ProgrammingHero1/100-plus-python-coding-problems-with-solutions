@@ -1,18 +1,16 @@
 
-## 1.2: Math Power
+# Math Power
 
-####  The problem
+## The problem
 Take two numbers from the users. Calculate the result of second number power of the first number.
 
-<details>
-   <summary><b>S-2: Click Here For Show Hints</b></summary>
-   <p>To power, you will need to use two asterisks symbols (two multiplication symbols). For example 4 to the power 3 will be</p>
- </details>
-<br>
+## Hints
+To power, you will need to use two asterisks symbols (two multiplication symbols). For example 4 to the power 3 will be
+
 
 **result = 4**3**
 
-####   Solution
+## Solution
 ```python
 base_num = int(input('Give me the base number: '))
 power_num = int(input('Give me the power number: '))
@@ -22,11 +20,11 @@ print('Your result is: ', result)
 
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-####   Think Different
+## Think Different
 Python has a built-in function named pow [blue]. The pow is a short form of the word power. And you can pass 2 numbers to the pow function. It will give you the second number as a power of the first number. 
 
 
-####   Alternative Solution
+## Alternative Solution
 Python has a built-in function named pow [blue]. The pow is a short form of the word power. And you can pass 2 numbers to the pow function. It will give you the second number as a power of the first number. 
 
 ```python

@@ -60,7 +60,7 @@ In this galaxy, we will focus on real-world coding related problem-solving.
 
 The problem-solving means, we will take a small programming problem. We will think about the process of solving the problem and then we will solve it. 
 
-### Explanation
+## Explanation
 After the solution, we will explain the answer. Convey the concept and strategy to solve it. 
 
 ### Purpose

@@ -1,17 +1,17 @@
-## 6.1: Simple Interest 
+# 6.1: Simple Interest 
 
 ---
 
-###  The Problem
+## The Problem
 You borrowed $5000 for 2 years with 2% interest per year.
 Calculate the simple interest to know how much you have to pay?
 
-###   Hint
+##  Hint
 Just take amount, duration and interest rate. 
 
 You have to multiply these three. And, don’t forget: you have to convert percent to a fraction by dividing it by 100.
 
-###   The Solution
+##  The Solution
 
 ```python
 principle = int(input("Money you borrowed: "))
@@ -26,7 +26,7 @@ print("Simple interest is:", simple_interest)
 
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-###   Explanation
+##  Explanation
 Read the code. I think you don’t need any extra explanation here. 
 
 

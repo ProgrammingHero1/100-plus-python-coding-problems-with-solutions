@@ -1,9 +1,9 @@
-## 6.4 Gravitational Force
+# 6.4 Gravitational Force
 
-###  The Problem
+## The Problem
 Compute gravitational force between two objects. 
 
-###   Hint
+## Hint
 The formula for gravitational force is 
 
 **F = G m1m2/r2**
@@ -12,7 +12,7 @@ Here G is the gravitational constant. Its value is 6.673*10-11
 
 So, take three input from the users. The mass of the first object, the mass of the second object and the distance between them.  
 
-###   Solution
+## Solution
 
 ```python
 mass1 = float(input("First mass: "))
@@ -28,7 +28,7 @@ print("The gravitational force is:", round(force, 5),"N")
  
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-###   Explanation
+## Explanation
 The calculation is simple. Only two things need to be learned from this. 
 
 **Have a look, how we wrote 6.673*10-11**

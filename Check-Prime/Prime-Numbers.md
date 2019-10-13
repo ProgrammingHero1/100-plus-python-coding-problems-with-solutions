@@ -1,16 +1,16 @@
-## 7.1 Check Prime: 
+# 7.1 Check Prime: 
 
-###  The problem 
+##  The problem 
 For a given number, check whether the number is a prime number or not.
 
-###   Hint
+##   Hint
 A number is a prime number. If that number is only divisible by 1 and the number itself. 
 
 This means a prime number is not divisible by any numbers between 1 and the number itself. 
 
 So, to check prime, you can start dividing the number from 2. And then increase it by 1. If the number gets divided, then it’s not a prime number. 
 
-###   The solution 
+##   The solution 
 
 ```python
 def is_prime(num):
@@ -30,7 +30,7 @@ else:
    print('Your number is not a Prime')
 ```
 
-[Try it on Programming Hero button]
+**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 ###   Explanation
 The core part of the algorithm is the is_prime function. 
@@ -49,10 +49,10 @@ If the number doesn’t get divided by any numbers smaller than the number, it w
 
 Then we will return True. Because it didn’t get divided, by any numbers. Hence, it will be a prime number.
 
-###   Many Solution
+##   Many Solution
 There are other solutions to this problem as well. We encourage you to google, “check prime number python”. In that way, you will learn a lot. 
 
-###   Take Away
+##   Take Away
 A prime number is only divisible by 1 and the number itself. 
 
 &nbsp;

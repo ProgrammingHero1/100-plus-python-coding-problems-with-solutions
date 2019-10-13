@@ -1,18 +1,16 @@
-## 4.1: Miles to Kilometers
+# Miles to Kilometers
 
-####  The Problem
+## The Problem
 Convert miles to kilometers.
 
-<details>
- <summary><b>S-2: Click Here For Show Hints</b></summary>
-   <p>I am telling you just one thing:
+## Hints
+I am telling you just one thing:
 
 1 mile = 1.609344 kilometers
 
-Now, think what you can do with this information. </p>
- </details>
+Now, think what you can do with this information.
 
-###   The solution
+## The solution
 
 ```python
 miles = float(input("Enter distance in miles: "))
@@ -22,7 +20,7 @@ print("Distance in Kilometers:", kilometers)
  
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-###   Explanation
+## Explanation
 Just take a number from the user. Allow the user to enter a float number. Then, multiply that number by 1.609344. Keep the multiplication in the kilometers variable. 
 
 The kilometers is your answer. 

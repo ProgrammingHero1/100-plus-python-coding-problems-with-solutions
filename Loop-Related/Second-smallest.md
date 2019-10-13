@@ -1,16 +1,13 @@
 
-## 3.5 Second smallest element
+# Second smallest element
 
-####  The problem
+## The problem
 For a list, find the second smallest element in the list
 
-<details>
- <summary><b>S-2: Click Here For Show Hints</b></summary>
-   <p>If you understand the process of finding the second largest element, this will be a piece of cake for you.</p>
- </details>
-<br>
+## Hints 
+If you understand the process of finding the second largest element, this will be a piece of cake for you.
 
-####   Solution
+## Solution
 ```python
 def get_second_smallest(nums):
    smallest = nums[0]
@@ -29,7 +26,7 @@ print("Second smallest number is : ", second_smallest)
 ```
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-####   Explanation
+## Explanation
 We declared two variables. One is called the smallest. Another one is second_smallest. We started both with the value of the first element of the list. 
 
 Then we ran a for loop on the range. The range looks like range(1, len(nums)). We started the list with 1 because we already set the first value as the smallest and the second smallest. Then the upper value of the range is len(num). 
@@ -42,13 +39,13 @@ On the other hand, if the current value is smaller than the current second small
 
 That's it.
 
-####   Think DIfferent
+## Think DIfferent
 
 You can use the previous clever solution to find the second smallest number as well. 
 
 Please note that, by removing an element from the list, you are changing the original list. If you don’t want to modify the list (you might need the list for other operations), you should use the comparison method. 
 
-####   Clever Solution
+## Clever Solution
 
 ```python
 nums = [2, 15, 14, 71, 52, 209, 551]
@@ -59,7 +56,7 @@ print(second_smallest)
 
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-####   Take Away
+## Take Away
 If you know multiple solutions to a problem, you can apply the right solution based on the situation.
 
 &nbsp;

@@ -1,16 +1,13 @@
 
-## 3.6 Remove duplicate characters
+## Remove duplicate characters
 
-####  The problem
+## The problem
 For a given string, remove all duplicate characters from that string.
 
-<details>
- <summary><b>S-2: Click Here For Show Hints</b></summary>
-   <p>Create a result string. Then loop through the string and check whether the current character not in the string. If it is not, then add it. Otherwise, it’s already there adding it will make it duplicate. </p>
- </details>
-<br>
+## Hints
+Create a result string. Then loop through the string and check whether the current character not in the string. If it is not, then add it. Otherwise, it’s already there adding it will make it duplicate.
 
-####   Solution
+## Solution
 ```python
 def remove_duplicate(your_str):
    result = ''
@@ -26,7 +23,7 @@ print('Without duplicate: ', no_duplicate)
 ```
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-####    Explanation
+## Explanation
 We just created a function. In the function, we are taking a string as an input. 
 
 Inside the function, we created a variable named result with initial value as an empty string. 
@@ -39,7 +36,7 @@ So, the overall task is very simple.
 
 If needed, go to the code playground type the code multiple times and you will understand it. 
 
-####   Quiz
+## Quiz
 How would you check whether a character exists in a string? 
 
 1. not in
@@ -51,7 +48,7 @@ How would you check whether a character exists in a string?
    <p>The answer is : 1</p>
  </details>
 
-####   Take Away
+## Take Away
 The not in is just the opposite check of in.
 
 

@@ -4,14 +4,9 @@
 ####  The problem
 For a given number, find all the numbers smaller than the number. Numbers should be divisible by 3 and also by 5.
 
-<details>
- <summary><b>S-2: Click Here For Show Hints</b></summary>
-   <p>So, you have to check two conditions: make sure the number is divisible by 3, and also by 5.
-
-> Hence, you will need to use two conditions.
-</p>
- </details>
-<br>
+## Hints
+So, you have to check two conditions: make sure the number is divisible by 3, and also by 5.
+Hence, you will need to use two conditions.
 
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
@@ -31,10 +26,10 @@ print(result)
 
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-####   Explanation
+## Explanation
 This one is easy. We took an input number from the user, and then pass it to a function. 
 
-In the function, we have a list and we ran a loop. This loop runs a range. This means we will get numbers from 0 to num. Here, num is the number that the user entered. 
+In the function, we have a list and we ran a loop. This loop runs a range. This means we will get nufrom 0 to num. Here, num is the number that the user entered. 
 
 Inside the loop, we have an if block. In the if block, we have two conditions. One condition says i % 3 ==0
 
@@ -50,7 +45,7 @@ That’s how we are getting every number divisible by 3  and 5.
 
 > Isn’t it simple and cool?
 
-####   Quiz
+## Quiz
 If you want to get the numbers that are either divisible by 3 or divisible by 7, which condition will you use?
 
 1. n%3 == 0 or n%7 ==0
@@ -62,7 +57,7 @@ If you want to get the numbers that are either divisible by 3 or divisible by 7,
    <p>The answer is : 1</p>
  </details>
 
-####   Take Away
+## Take Away
 Remainder(%) will be 0, if the number gets divided.
 
 &nbsp;

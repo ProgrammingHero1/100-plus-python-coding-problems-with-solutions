@@ -1,18 +1,15 @@
 # 100 Plus Python Coding Problems With Solutions
 ---
 
-### 1.1: User input to Number
+# User input to Number
 
-####  The problem
+##  The problem
 Take two inputs from the user. One will be an integer. The other will be a float number. Then multiply them to display the output.
 
-<details>
-   <summary><b>S-2: Click Here For Show Hints</b></summary>
-   <p>Use input. By default, input gives you a string. Then use int and float to convert the input to a number. And then multiply them. <br><br>That’s it.</p>
- </details>
-<br>
+## Hints
+Use input. By default, input gives you a string. Then use int and float to convert the input to a number. And then multiply them. That’s it.
 
-####   Solution
+## Solution
 ```python
 int_text = input("Give me an integer number: ")
 int_num = int(int_text)
@@ -24,7 +21,7 @@ print("Your result is: ", result)
 
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-####   Shortcut
+## Shortcut
 > You wrote input in one line and then in the next line you used int or float to convert the number. You can write the two lines in one line. Like below 
 
 ```python
@@ -36,12 +33,11 @@ print('Your result is: ', result)
 
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-####   Going Forward
+## Going Forward
 Going forward, we will write input and conversion in one line.
 
-####   Quiz
+## Quiz
 Which one is used to convert string to a number?
-
 
 1. number
 2. convert
@@ -52,7 +48,7 @@ Which one is used to convert string to a number?
    <p>The answer is : 3</p>
  </details>
 
-*S-7: Take Away*
+## Take Away*
 
 Use int or float to convert user input to a number. <br>
 

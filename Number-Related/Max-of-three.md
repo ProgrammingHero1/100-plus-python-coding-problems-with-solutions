@@ -1,12 +1,11 @@
 
-## 2.2 max of three
+# max of three
 
-####  The problem
+## The problem
 Find the largest of the three numbers.
 
-<details>
- <summary><b>S-2: Click Here For Show Hints</b></summary>
-   <p> Ask the user to enter three numbers. 
+## Hints
+Ask the user to enter three numbers. 
 
 Then, you can run multiple comparisons to compare which one is the largest. 
 
@@ -18,13 +17,11 @@ Similarly, compare the third number with the first or second number.
 
 Otherwise, the first number will be the largest. 
 
-Think about it. And try yourself first. </p>
- </details>
-<br>
+Think about it. And try yourself first.
 
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-####   Solution
+## Solution
 ```python
 num1 = int(input("First number: "))
 num2 = int(input("Second number: "))
@@ -58,7 +55,7 @@ print("Largest number you entered is: ",largest)
 
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-####   Quiz
+## Quiz
 What is the easiest way to find out the largest number?
 
 1. Use multiple if-else conditions
@@ -70,7 +67,7 @@ What is the easiest way to find out the largest number?
    <p>The answer is : 2</p>
  </details>
 
-####   Take Away
+## Take Away
 Use the max function to get the largest number.
 
 &nbsp;
