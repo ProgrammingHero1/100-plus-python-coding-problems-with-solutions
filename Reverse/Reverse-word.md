@@ -109,3 +109,11 @@ print(rev)
 ## take Away
 The split method breaks string into elements of a list.
 
+
+
+&nbsp;
+[![Next Page](../assets/next-button.png)](..README.md)
+&nbsp;
+
+###### tags: `programmig-hero` `python` `float` `int` `math`
+

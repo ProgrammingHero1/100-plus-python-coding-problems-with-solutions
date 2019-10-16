@@ -90,3 +90,10 @@ That’s why we put current in a list as well so that it becomes a list as well.
 This will create [3, 2, 1]. That’s why we did [current] + p  to make the final permutation. 
 
 This code is harder. It will take a few practices to become comfortable with it.
+
+
+&nbsp;
+[![Next Page](assets/next-button.png)](Generate-Sentences.md)
+&nbsp;
+
+###### tags: `programmig-hero` `python` `float` `int` `math`

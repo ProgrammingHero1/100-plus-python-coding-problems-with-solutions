@@ -41,7 +41,7 @@ There is just one way to become good at problem-solving - Just solve more proble
 Keep solving more problems. 
 
 &nbsp;
-[![Next Page](assets/next-button.png)](README.md)
+[![Next Page](assets/next-button.png)](Prime-Numbers.md)
 &nbsp;
 
 ###### tags: `programmig-hero` `python` `float` `int` `math`

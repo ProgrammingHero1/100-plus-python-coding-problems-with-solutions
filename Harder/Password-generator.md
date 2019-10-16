@@ -49,3 +49,10 @@ print('Your new password: ', new_password)
 The solution is rather simple. We imported the random module and the string module. Then we created a long string by joining all ascii_letters, digits and special characters.
 
 For that, we ran a for loop. In the loop, we select a random letter from the all_chars. To select a random character, we used random.choice. Then we add the random character to the password. 
+
+
+&nbsp;
+[![Next Page](assets/next-button.png)](Password-with-requirements.md)
+&nbsp;
+
+###### tags: `programmig-hero` `python` `float` `int` `math`

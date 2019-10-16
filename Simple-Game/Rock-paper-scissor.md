@@ -52,3 +52,11 @@ We repeated this two more times. And checked whether the first player entered pa
 Now think for 5 minutes, is there any different way you could have written the if-else logic here. 
 
 If you find a way, add a question here so that everyone can see your code.
+
+
+
+&nbsp;
+[![Next Page](assets/next-button.png)](Cows-and-bulls.md)
+&nbsp;
+
+###### tags: `programmig-hero` `python` `float` `int` `math`

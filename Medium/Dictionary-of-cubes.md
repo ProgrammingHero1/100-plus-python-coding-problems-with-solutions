@@ -48,4 +48,10 @@ print('Your sum of cubes are: ', sum)
 ## Take Away
 Sum of a series might have an easier formula.
 
+&nbsp;
+[![Next Page](../assets/next-button.png)](Armstrong-number.md)
+&nbsp;
+
+###### tags: `programmig-hero` `python` `float` `int` `math`
+
 

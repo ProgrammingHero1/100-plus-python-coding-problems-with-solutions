@@ -78,3 +78,10 @@ return result
 ```
 
 
+&nbsp;
+[![Next Page](../assets/next-button.png)](Greatest-common-divisor.md)
+&nbsp;
+
+###### tags: `programmig-hero` `python` `float` `int` `math`
+
+

@@ -63,3 +63,9 @@ Reading other’s code and trying to understand will be a common activity for a 
 So, practice it here. 
 
 If you don't understand any line, feel free to ask us a question. 
+
+&nbsp;
+[![Next Page](assets/next-button.png)](..README.md)
+&nbsp;
+
+###### tags: `programmig-hero` `python` `float` `int` `math`

@@ -65,3 +65,10 @@ After that, we use the int to convert the user input to an integer number. We di
 That’s why we put the int after the check for q. 
 
 The bottom part of the code should be easier for you.
+
+
+&nbsp;
+[![Next Page](assets/next-button.png)](Rock-paper-scissor.md)
+&nbsp;
+
+###### tags: `programmig-hero` `python` `float` `int` `math`

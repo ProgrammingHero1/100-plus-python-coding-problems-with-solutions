@@ -101,3 +101,8 @@ The answer is: 3
 ```
 
 
+&nbsp;
+[![Next Page](assets/next-button.png)](Word-hangman.md)
+&nbsp;
+
+###### tags: `programmig-hero` `python` `float` `int` `math`

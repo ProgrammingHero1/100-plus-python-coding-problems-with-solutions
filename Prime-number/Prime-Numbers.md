@@ -41,3 +41,9 @@ Inside the loop, call the is_prime function and check the return. If the return 
 Then return the primes list. 
 
 That’s it.
+
+&nbsp;
+[![Next Page](../assets/next-button.png)](Prime-Factors.md)
+&nbsp;
+
+###### tags: `programmig-hero` `python` `float` `int` `math`

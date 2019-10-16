@@ -53,3 +53,9 @@ Make sense?
 
 Keep going. Only a few more left. I am sure you can do it 
 
+
+&nbsp;
+[![Next Page](assets/next-button.png)](Permutations.md)
+&nbsp;
+
+###### tags: `programmig-hero` `python` `float` `int` `math`

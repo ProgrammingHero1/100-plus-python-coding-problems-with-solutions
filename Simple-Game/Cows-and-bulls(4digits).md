@@ -56,3 +56,8 @@ However, solving this one by using if-else that we did for 2 digit bulls and cow
 That's why we created the get_bulls_cows function. Inside that, we created a loop. For each digit, check the digit in the same place. 
 
 
+&nbsp;
+[![Next Page](assets/next-button.png)](Word-completion.md)
+&nbsp;
+
+###### tags: `programmig-hero` `python` `float` `int` `math`

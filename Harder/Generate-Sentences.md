@@ -26,3 +26,8 @@ It's simple...Just run three for loops for three lists you have, each one under 
 Damn easy, isn't it?
 
 
+&nbsp;
+[![Next Page](assets/next-button.png)](..README.md)
+&nbsp;
+
+###### tags: `programmig-hero` `python` `float` `int` `math`

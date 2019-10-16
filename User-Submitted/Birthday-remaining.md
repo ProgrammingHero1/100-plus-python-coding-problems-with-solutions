@@ -88,3 +88,10 @@ At last, we calculate the difference.
 That’s a pretty simple way to get the days remaining for your next birthday.
 
 Isn’t it cool? 
+
+
+&nbsp;
+[![Next Page](assets/next-button.png)](Calculate-age.md)
+&nbsp;
+
+###### tags: `programmig-hero` `python` `float` `int` `math`

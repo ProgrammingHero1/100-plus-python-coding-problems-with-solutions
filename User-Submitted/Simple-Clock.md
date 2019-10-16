@@ -125,7 +125,8 @@ Similarly, if the minute becomes 60, we add 1 hour and set minutes to 0, because
 Finally, if the hour is 24, we reset the hour to 0. Because, in a digital clock, there are no 24 or 25 hours. After 23 hours, it becomes 0 hours again (the midnight!) 
 
 
+&nbsp;
+[![Next Page](assets/next-button.png)](Birthday-remaining.md)
+&nbsp;
 
- 
-
-
+###### tags: `programmig-hero` `python` `float` `int` `math`

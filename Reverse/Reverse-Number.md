@@ -53,3 +53,9 @@ Finally, set the new value of the num by dividing by 10.
 
 That’s it. 
 
+&nbsp;
+[![Next Page](../assets/next-button.png)](Reverse-word.md)
+&nbsp;
+
+###### tags: `programmig-hero` `python` `float` `int` `math`
+

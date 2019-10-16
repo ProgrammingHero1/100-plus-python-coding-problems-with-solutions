@@ -44,3 +44,12 @@ In the while loop, if we can not divide the lcm by the first number or the secon
 That's it. 
 
 It's actually much easier than it seems. 
+
+
+
+&nbsp;
+[![Next Page](../assets/next-button.png)](README.md)
+&nbsp;
+
+###### tags: `programmig-hero` `python` `float` `int` `math`
+

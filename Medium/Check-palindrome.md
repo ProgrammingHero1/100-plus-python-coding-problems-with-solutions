@@ -36,3 +36,10 @@ The problem might sound complicated at the beginning. However, if you know the t
 
 So, the more you explore, the more you try, the more shortcut trick you will master.
 
+
+&nbsp;
+[![Next Page](../assets/next-button.png)](Dictionary-of-cubes.md)
+&nbsp;
+
+###### tags: `programmig-hero` `python` `float` `int` `math`
+

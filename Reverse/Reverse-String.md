@@ -116,3 +116,9 @@ Will you be able to append, remove or set a character to string by the index?
 ## take Away
 A string is an immutable ordered sequence. 
 
+
+&nbsp;
+[![Next Page](../assets/next-button.png)](Reverse-String-(stack).md)
+&nbsp;
+
+###### tags: `programmig-hero` `python` `float` `int` `math`

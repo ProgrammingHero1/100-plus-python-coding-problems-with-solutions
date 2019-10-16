@@ -93,3 +93,10 @@ How would you slide a string and get the first five characters?
 You can slice a string to get a part of the string. 
  
 
+ 
+&nbsp;
+[![Next Page](../assets/next-button.png)](Reverse-Number.md)
+&nbsp;
+
+###### tags: `programmig-hero` `python` `float` `int` `math`
+

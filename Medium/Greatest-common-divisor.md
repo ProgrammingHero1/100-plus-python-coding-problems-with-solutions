@@ -70,3 +70,13 @@ b = int(input("Enter second number:"))
 gcd = math.gcd(a,b)
 print(gcd)
 ```
+
+
+
+&nbsp;
+[![Next Page](../assets/next-button.png)](Least-Common-Multiple.md)
+&nbsp;
+
+###### tags: `programmig-hero` `python` `float` `int` `math`
+
+

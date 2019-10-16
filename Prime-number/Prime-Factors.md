@@ -42,3 +42,8 @@ print(factors)
 ## take Away
 Prime factor is a prime number that divides the provided number. 
 
+&nbsp;
+[![Next Page](../assets/next-button.png)](Smallest-prime- factor.md)
+&nbsp;
+
+###### tags: `programmig-hero` `python` `float` `int` `math`

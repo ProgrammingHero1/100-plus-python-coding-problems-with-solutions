@@ -63,3 +63,8 @@ Then we have if-elif-else. And based on the operation, we call the right method 
 That’s it. 
 
 
+&nbsp;
+[![Next Page](assets/next-button.png)](Password-generator.md)
+&nbsp;
+
+###### tags: `programmig-hero` `python` `float` `int` `math`

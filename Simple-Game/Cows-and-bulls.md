@@ -90,3 +90,10 @@ In summary, bulls are guessed digit matches for the same position in the secret 
 Then we display the bulls and cows. 
 
 Finally, if there is no remaining try (remaining try < 1), print that user lost.
+
+
+&nbsp;
+[![Next Page](assets/next-button.png)](Cows-and-bulls(4digits).md)
+&nbsp;
+
+###### tags: `programmig-hero` `python` `float` `int` `math`
