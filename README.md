@@ -1,9 +1,12 @@
 # 100 Plus Python Coding Problems With Solutions
 ---
+Welcome to the Python problem-solving world. 
 
-## 2. Page Outline
+Here, we will take a real-world coding related problem. We will think about the process of solving the problem and then we will solve it. After the solution, we will explain the answer.  
 
-* ### 1 -&nbsp; Easy ones -  1-5
+## Table of Contents:
+
+## 1 -&nbsp; Easy ones
 * **[1.1](Easy-ones/User-input-to-Number.md "Convert input")** - **[Convert input](/Easy-ones/User-input-to-Number.md)**
 * **[1.2](Easy-ones/Math-Power.md "Math power")** - **[Math power](/Easy-ones/Math-Power.md)**
 * **[1.3](Easy-ones/Math-Power.md "Floor Division")** - **[Floor Division](/Easy-ones/Random-Number.md)**
@@ -11,7 +14,7 @@
 * **[1.5](Easy-ones/Temporary-variable.md "Temporary variable")** - **[Temporary variable](/Easy-ones/Temporary-variable.md)** 
 
 
-* ### 2 -&nbsp; Number Related - 6-10
+## 2 -&nbsp; Number Related
 * **[2.1](Number-Relate "Max of two")** - **[Max of two](/Number-Relate)**
 * **[2.2](Number-Related/Math-Power.md "Max of three")** - **[Max of three](/Number-Related/User-input-to-Number.md)**
 * **[2.3](Number-Related/Math-Power.md "Average of numbers")** - **[Average of numbers](/Number-Related/Math-Power.md)**
@@ -19,7 +22,7 @@
 * **[2.5](Number-Related/Sum-of-digits.md "Sum of digits")** - **[Sum of digits](Loop-Related/Sum-of-digits.md)**
 
 
-* ### 3 -&nbsp; Loop Related - 11-16
+## 3 -&nbsp; Loop Related
 * **[3.1](Loop-Related/Coin-sum.md "Sum of elements")** - **[Sum of elements](Loop-Related/Coin-sum.md)**
 * **[3.2](Loop-Related/Largest-element-of-a-list.md "Largest element of a list")** - **[Largest element of a list](Loop-Related/Largest-element-of-a-list.md)**
 * **[3.3](Loop-Related/Sum-of-squares.md "Sum of squares")** - **[Sum of squares](Loop-Related/Sum-of-squares.md)**
@@ -28,16 +31,16 @@
 * **[3.6](Loop-Related/Remove-duplicate-Chars.md "Remove duplicate Chars")** - **[Remove duplicate Chars](Loop-Related/Remove-duplicate-Chars.md)**
 
 
-* ### 4 -&nbsp; Conversions - 17-21
+## 4 -&nbsp; Conversions
 * **[4.1](Conversions/Celsius-to-Fahrenheit.md "Miles to Kilometers")** - **[Miles to Kilometers](Conversions/Celsius-to-Fahrenheit.md)**
 * **[4.2](Conversions/Decimal-to-binary.md "Celsius to Fahrenheit")** - **[Celsius to Fahrenheitt](Conversions/Decimal-to-binary.md)**
 * **[4.3](Conversions/Decimal-to-binary-recursive.md "Decimal to binary")** - **[Decimal to binary](Conversions/Decimal-to-binary-recursive.md)**
 * **[4.4](Conversions/Decimal-to-binary-recursive.md "Decimal to binary (recursive)")** - **[Decimal to binary (recursive)](Conversions/Decimal-to-binary-recursive.md)**
 * **[4.5](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp "Binary to decimal")** - **[Binary to decimal](premium)** **- Premium Access**
 
-* ### [5](Solution-Strategy.md "Solution Strategy") -&nbsp; [Solution Strategy](Solution-Strategy.md) 
+## [5](Solution-Strategy.md "Solution Strategy") -&nbsp; [Solution Strategy](Solution-Strategy.md) 
   
-* ### 6 -&nbsp; Computations - 23-27
+## 6 -&nbsp; Computations
 
 * **[6.1](Computations/Simple-Interest.md "Simple Interest")** - **[Simple Interest](Computations/Simple-Interest.md)**
 * **[6.2](Computations/Complex-Interest.md "Complex Interest")** - **[Complex Interest](Computations/Complex-Interest.md)**
@@ -45,14 +48,14 @@
 * **[6.4](Computations/Gravitational-Force.md "Gravitational Force)")** - **[Gravitational Force](Computations/Gravitational-Force.md)**
 * **[6.5](Computations/Triangle-Area.md "Triangle Area)")** - **[Triangle Area](Computations/Triangle-Area.md)**
 
-* ### 7 -&nbsp; Prime number - 28-31
+## 7 -&nbsp; Prime number
 
 * **[7.1](Prime-number/Check-Prime.md "Check Prime")** - &nbsp; **[Check Prime](Solution-Strategy.md)** 
 * **[7.2](Prime-number/Prime-Numbers.md "Prime Numbers")** - &nbsp; **[Prime Numbers](Prime-number/Prime-Numbers.md)** 
 * **[7.3](Prime-number/Prime-factors.md "Prime factors")** - &nbsp; **[Prime factors](Prime-number/Prime-factors.md)** 
 * **[7.4](Prime-number/Smallest-prime-factor.md "Smallest prime factor")** - &nbsp; **[Smallest prime factor](Prime-number/Smallest-prime-factor.md)** 
 
-* ### 8 -&nbsp; Reverse - 32-36
+## 8 -&nbsp; Reverse
 
 * **[8.1](Reverse/Reverse-String.md "Reverse String")** - &nbsp; **[Reverse String](Reverse/Reverse-String.md)** 
 * **[8.2](Reverse/Reverse-String-(stack).md "Reverse String (stack)")** - &nbsp; **[Reverse String (stack)](Reverse/Reverse-String-(stack).md)** 
@@ -60,7 +63,7 @@
 * **[8.4](Reverse/Reverse-Number.md "Reverse Number")** - &nbsp; **[Reverse Number](Reverse/Reverse-Number.md)** 
 * **[8.5](Reverse/Reverse-word.md "Reverse word")** - &nbsp; **[Reverse word](Reverse/Reverse-word.md)** 
 
-* ### 9 -&nbsp; Medium - 37-43
+## 9 -&nbsp; Medium
 
 * **[9.1](Medium/Check-palindrome.md "Check palindrome")** - &nbsp; **[Check palindrome](Medium/Check-palindrome.md)** 
 * **[9.2](Medium/Dictionary-of-cubes.md "Dictionary of cubes")** - &nbsp; **[Dictionary of cubes](Medium/Dictionary-of-cubes.md)** 
@@ -68,9 +71,9 @@
 * **[9.4](Medium/Greatest-common-divisor.md "Greatest common divisor")** - &nbsp; **[Greatest common divisor](Medium/Greatest-common-divisor.md)** 
 * **[9.5](Medium/Least-Common-Multiple.md "Least Common Multiple")** - &nbsp; **[Least Common Multiple](Medium/Least-Common-Multiple.md)** 
 
-* ### [10](Programming-Contest.md "Programming Contest") -&nbsp; [Programming Contest](Programming-Contest.md) 
+## [10](Programming-Contest.md "Programming Contest") -&nbsp; [Programming Contest](Programming-Contest.md) 
 
-* ### 11 -&nbsp; Simple Game - 45-50
+## 11 -&nbsp; Simple Game
 
 * **[11.1](Simple-Game/Guess-game.md "Guess game")** - &nbsp; **[Guess game](Simple-Game/Guess-game.md)** 
 * **[11.2](Simple-Game/Rock-paper-scissor.md "Rock paper scissor")** - &nbsp; **[Rock paper scissor](Simple-Game/Rock-paper-scissor.md)** 
@@ -79,7 +82,7 @@
 * **[11.5](Simple-Game/Word-completion.md "Word completion")** - &nbsp; **[Word completion](Simple-Game/Word-completion.md)** 
 * **[11.6](Simple-Game/Word-hangman.md "Word hangman")** - &nbsp; **[Word hangman](Simple-Game/Word-hangman.md)** 
 
-* ### 12 -&nbsp; Harder - 51-55
+## 12 -&nbsp; Harder
 
 * **[12.1](Harder/Simple-Calculator.md "Simple Calculator")** - &nbsp; **[Simple Calculator](Harder/Simple-Calculator.md)** 
 * **[12.2](Harder/Password-generator.md "Password generator")** - &nbsp; **[Password generator](Harder/Password-generator.md)** 
@@ -88,31 +91,14 @@
 * **[12.5](Harder/Simple-Calculator.md "Generate Sentences")** - &nbsp; **[Generate Sentences](Harder/Simple-Calculator.md)** 
 
 
-* ### 13 -&nbsp; User Submitted - 56-58
+## 13 -&nbsp; User Submitted
 
 * **[13.1](User-Submitted/Simple-Clock.md "Simple Digital Clock")** - &nbsp; **[Simple Clock](User-Submitted/Simple-Clock.md)** 
 * **[13.2](User-Submitted/Birthday-remaining.md "Birthday-remaining.md")** - &nbsp; **[Birthday-remaining.md](User-Submitted/Birthday-remaining.md)** 
 * **[13.3](User-Submitted/Calculate-age.md "Calculate age")** - &nbsp; **[Calculate age](User-Submitted/Calculate-age.md)** 
 
 
-## 0: Introduction
 
-### Welcome
-Welcome to the problem-solving galaxy. 
-
-### Problem Solving
-In this galaxy, we will focus on real-world coding related problem-solving. 
-
-The problem-solving means, we will take a small programming problem. We will think about the process of solving the problem and then we will solve it. 
-
-## Explanation
-After the solution, we will explain the answer. Convey the concept and strategy to solve it. 
-
-### Purpose
-Solving coding problems helps you to think about the problem. It will make you a better developer. Moreover, if you want to participate in a programming contest, you need to practice problem-solving. 
-
-### Interview
-Besides, large companies like Google, Facebook, Amazon, Uber, etc. ask a lot of problem-solving related questions in their job interview.<br><br>If you want to work any of these large companies, you should practice problem-solving.
 
 
 ### Many solutions
