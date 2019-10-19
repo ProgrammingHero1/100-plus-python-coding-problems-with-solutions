@@ -17,7 +17,7 @@ sub3=int(input("Third subject: "))
 sub4=int(input("Fourth subject: "))
 sub5=int(input("Fifth subject: "))
  
-avg=(sub1+sub2+sub3+sub4+sub4)/5
+avg=(sub1+sub2+sub3+sub4+sub5)/5
  
 if avg >= 90:
    print("Grade: A")

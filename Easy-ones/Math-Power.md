@@ -7,8 +7,9 @@ Take two numbers from the users. Calculate the result of second number power of 
 ## Hints
 To power, you will need to use two asterisks symbols (two multiplication symbols). For example 4 to the power 3 will be
 
-
-**result = 4**3**
+```python
+result = 4**3
+```
 
 ## Solution
 ```python
@@ -21,7 +22,7 @@ print('Your result is: ', result)
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 ## Think Different
-Python has a built-in function named pow [blue]. The pow is a short form of the word power. And you can pass 2 numbers to the pow function. It will give you the second number as a power of the first number. 
+Python has a built-in function named `pow`. The pow is a short form of the word power. And you can pass 2 numbers to the pow function. It will give you the second number as a power of the first number. 
 
 
 ## Alternative Solution

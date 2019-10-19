@@ -23,7 +23,7 @@ print(random_num)
 How will you generate a random integer number?
 
 1. math.random
-2. math.randint
+2. random.randint
 3. random.randomint
 
 <details>

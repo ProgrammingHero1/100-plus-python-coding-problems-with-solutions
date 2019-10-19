@@ -112,7 +112,7 @@ Always keep an open mind to learn multiple solutions to solve a problem.
 *Let’s do it.*
 
 &nbsp;
-[![Next Page](assets/next-button.png)](Math-Power.md)
+[![Next Page](assets/next-button.png)](/Easy-ones/User-input-to-Number.md)
 &nbsp;
 
 ###### tags: `programmig-hero` `python` `float` `int` `math`
