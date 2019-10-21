@@ -62,3 +62,7 @@ What is the shortcut way to sum all the numbers in a list?
 
 Use the sum function to sum all the numbers in a list.
 
+
+&nbsp;
+[![Next Page](../assets/next-button.png)](Largest-element-of-a-list.md)
+&nbsp;

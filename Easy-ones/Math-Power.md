@@ -8,7 +8,7 @@ Take two numbers from the users. Calculate the result of second number power of 
 To power, you will need to use two asterisks symbols (two multiplication symbols). For example 4 to the power 3 will be
 
 
-result = 4**3
+`result = 4**3`
 
 ## Solution
 ```python

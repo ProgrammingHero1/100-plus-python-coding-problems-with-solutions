@@ -61,7 +61,7 @@ What is the shortcut way to sum all the numbers in a list?
 Use the sum function to sum all the numbers in a list.
 
 &nbsp;
-[![Next Page](../assets/next-button.png)](../Loop-Related/Coin-sum.md)
+[![Next Page](../assets/next-button.png)](../Loop-Related/Sum-of-elements.md)
 &nbsp;
 
 tags:  `programmig-hero`  `python`  `python3`  `problem-solving`  `programming`  `coding-challenge`  `interview`  `learn-pyton`  `python-tutorial`  `programming-exercises`  `programming-challenges`  `programming-fundamentals`  `programming-contest`  `python-coding-challenges`  `python-problem-solving` 
