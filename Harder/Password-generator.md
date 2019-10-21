@@ -55,4 +55,4 @@ For that, we ran a for loop. In the loop, we select a random letter from the all
 [![Next Page](../assets/next-button.png)](Password-with-requirements.md)
 &nbsp;
 
-###### tags:  `programmig-hero`  `python`  `python3`  `problem-solving`  `programming`  `coding-challenge`  `interview`  `learn-pyton`  `python-tutorial`  `programming-exercises`  `programming-challenges`  `programming-fundamentals`  `programming-contest`  `python-coding-challenges`  `python-problem-solving`
+tags:  `programmig-hero`  `python`  `python3`  `problem-solving`  `programming`  `coding-challenge`  `interview`  `learn-pyton`  `python-tutorial`  `programming-exercises`  `programming-challenges`  `programming-fundamentals`  `programming-contest`  `python-coding-challenges`  `python-problem-solving`

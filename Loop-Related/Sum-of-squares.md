@@ -91,5 +91,5 @@ Knowing shortcut ways will make you smarter and faster.
 [![Next Page](../assets/next-button.png)](Second-Largest.md)
 &nbsp;
 
-###### tags:  `programmig-hero`  `python`  `python3`  `problem-solving`  `programming`  `coding-challenge`  `interview`  `learn-pyton`  `python-tutorial`  `programming-exercises`  `programming-challenges`  `programming-fundamentals`  `programming-contest`  `python-coding-challenges`  `python-problem-solving`
+tags:  `programmig-hero`  `python`  `python3`  `problem-solving`  `programming`  `coding-challenge`  `interview`  `learn-pyton`  `python-tutorial`  `programming-exercises`  `programming-challenges`  `programming-fundamentals`  `programming-contest`  `python-coding-challenges`  `python-problem-solving`
 

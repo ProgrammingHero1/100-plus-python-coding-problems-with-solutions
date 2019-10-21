@@ -71,4 +71,4 @@ The bottom part of the code should be easier for you.
 [![Next Page](../assets/next-button.png)](Rock-paper-scissor.md)
 &nbsp;
 
-###### tags:  `programmig-hero`  `python`  `python3`  `problem-solving`  `programming`  `coding-challenge`  `interview`  `learn-pyton`  `python-tutorial`  `programming-exercises`  `programming-challenges`  `programming-fundamentals`  `programming-contest`  `python-coding-challenges`  `python-problem-solving`
+tags:  `programmig-hero`  `python`  `python3`  `problem-solving`  `programming`  `coding-challenge`  `interview`  `learn-pyton`  `python-tutorial`  `programming-exercises`  `programming-challenges`  `programming-fundamentals`  `programming-contest`  `python-coding-challenges`  `python-problem-solving`

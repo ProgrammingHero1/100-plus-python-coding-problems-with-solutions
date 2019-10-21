@@ -67,4 +67,4 @@ The math module has a lot of math-related functionalities.
 [![Next Page](../assets/next-button.png)](../Prime-number/Check-Prime.md)
 &nbsp;
 
-###### tags:  `programmig-hero`  `python`  `python3`  `problem-solving`  `programming`  `coding-challenge`  `interview`  `learn-pyton`  `python-tutorial`  `programming-exercises`  `programming-challenges`  `programming-fundamentals`  `programming-contest`  `python-coding-challenges`  `python-problem-solving`
+tags:  `programmig-hero`  `python`  `python3`  `problem-solving`  `programming`  `coding-challenge`  `interview`  `learn-pyton`  `python-tutorial`  `programming-exercises`  `programming-challenges`  `programming-fundamentals`  `programming-contest`  `python-coding-challenges`  `python-problem-solving`

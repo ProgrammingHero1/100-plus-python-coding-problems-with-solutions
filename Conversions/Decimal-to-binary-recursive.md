@@ -45,4 +45,4 @@ There are multiple ways to format the print string. Google it, when needed.
 [![Next Page](../assets/next-button.png)](../Solution-Strategy.md)
 &nbsp;
 
-###### tags:  `programmig-hero`  `python`  `python3`  `problem-solving`  `programming`  `coding-challenge`  `interview`  `learn-pyton`  `python-tutorial`  `programming-exercises`  `programming-challenges`  `programming-fundamentals`  `programming-contest`  `python-coding-challenges`  `python-problem-solving`
+tags:  `programmig-hero`  `python`  `python3`  `problem-solving`  `programming`  `coding-challenge`  `interview`  `learn-pyton`  `python-tutorial`  `programming-exercises`  `programming-challenges`  `programming-fundamentals`  `programming-contest`  `python-coding-challenges`  `python-problem-solving`
