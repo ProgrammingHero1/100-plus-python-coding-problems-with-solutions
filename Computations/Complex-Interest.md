@@ -44,4 +44,4 @@ To apply the same power on multiple things, put them inside parentheses and then
 [![Next Page](../assets/next-button.png)](Calculate-Grades.md)
 &nbsp;
 
-###### tags: `programmig-hero` `python` `python3` `problem-solving` `programming` `coding-challenge` `interview` `learn-pyton` `python-tutorial` `programming-exercises` `programming-challenges`  `programming-fundamentals` `programming-contest`  `python-coding-challenges` `python-problem-solving` 
+###### tags:  `programmig-hero`  `python`  `python3`  `problem-solving`  `programming`  `coding-challenge`  `interview`  `learn-pyton`  `python-tutorial`  `programming-exercises`  `programming-challenges`  `programming-fundamentals`  `programming-contest`  `python-coding-challenges`  `python-problem-solving`

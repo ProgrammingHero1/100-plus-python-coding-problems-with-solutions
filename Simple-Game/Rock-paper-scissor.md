@@ -59,4 +59,4 @@ If you find a way, add a question here so that everyone can see your code.
 [![Next Page](../assets/next-button.png)](Cows-and-bulls.md)
 &nbsp;
 
-###### tags: `programmig-hero` `python` `python3` `problem-solving` `programming` `coding-challenge` `interview` `learn-pyton` `python-tutorial` `programming-exercises` `programming-challenges`  `programming-fundamentals` `programming-contest`  `python-coding-challenges` `python-problem-solving` 
+###### tags:  `programmig-hero`  `python`  `python3`  `problem-solving`  `programming`  `coding-challenge`  `interview`  `learn-pyton`  `python-tutorial`  `programming-exercises`  `programming-challenges`  `programming-fundamentals`  `programming-contest`  `python-coding-challenges`  `python-problem-solving`

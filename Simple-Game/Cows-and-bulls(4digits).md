@@ -60,4 +60,4 @@ That's why we created the get_bulls_cows function. Inside that, we created a loo
 [![Next Page](../assets/next-button.png)](Word-completion.md)
 &nbsp;
 
-###### tags: `programmig-hero` `python` `python3` `problem-solving` `programming` `coding-challenge` `interview` `learn-pyton` `python-tutorial` `programming-exercises` `programming-challenges`  `programming-fundamentals` `programming-contest`  `python-coding-challenges` `python-problem-solving` 
+###### tags:  `programmig-hero`  `python`  `python3`  `problem-solving`  `programming`  `coding-challenge`  `interview`  `learn-pyton`  `python-tutorial`  `programming-exercises`  `programming-challenges`  `programming-fundamentals`  `programming-contest`  `python-coding-challenges`  `python-problem-solving`

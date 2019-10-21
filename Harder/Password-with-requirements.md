@@ -58,4 +58,4 @@ Keep going. Only a few more left. I am sure you can do it
 [![Next Page](../assets/next-button.png)](Permutations.md)
 &nbsp;
 
-###### tags: `programmig-hero` `python` `python3` `problem-solving` `programming` `coding-challenge` `interview` `learn-pyton` `python-tutorial` `programming-exercises` `programming-challenges`  `programming-fundamentals` `programming-contest`  `python-coding-challenges` `python-problem-solving` 
+###### tags:  `programmig-hero`  `python`  `python3`  `problem-solving`  `programming`  `coding-challenge`  `interview`  `learn-pyton`  `python-tutorial`  `programming-exercises`  `programming-challenges`  `programming-fundamentals`  `programming-contest`  `python-coding-challenges`  `python-problem-solving`

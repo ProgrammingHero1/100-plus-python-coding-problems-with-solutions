@@ -73,4 +73,4 @@ In the second approach, other than directly adding to the list, we are adding it
 [![Next Page](../assets/next-button.png)](Divisible-by-3-and-5.md)
 &nbsp;
 
-###### tags: `programmig-hero` `python` `python3` `problem-solving` `programming` `coding-challenge` `interview` `learn-pyton` `python-tutorial` `programming-exercises` `programming-challenges`  `programming-fundamentals` `programming-contest`  `python-coding-challenges` `python-problem-solving`  
+###### tags:  `programmig-hero`  `python`  `python3`  `problem-solving`  `programming`  `coding-challenge`  `interview`  `learn-pyton`  `python-tutorial`  `programming-exercises`  `programming-challenges`  `programming-fundamentals`  `programming-contest`  `python-coding-challenges`  `python-problem-solving` 
