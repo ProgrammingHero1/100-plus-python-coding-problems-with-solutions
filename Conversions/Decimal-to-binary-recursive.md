@@ -8,7 +8,7 @@ After coding for a while, recursive will become fun. Until then, recursive funct
 So, don’t worry if you felt confused. You are not alone. I am in the same condition as well.
 
 ## Recursive
-```python=
+```python
 def dec_to_binary(n):
    if n > 1:
        dec_to_binary(n//2)
@@ -16,7 +16,7 @@ def dec_to_binary(n):
 ```
 
 ## decimal number
-```python=
+```python
 num = int(input("Your decimal number: "))
 dec_to_binary(num)
 print(" ")
@@ -42,7 +42,7 @@ There are multiple ways to format the print string. Google it, when needed.
 
 
 &nbsp;
-[![Next Page](../assets/next-button.png)](../README.md)
+[![Next Page](../assets/next-button.png)](../Solution-Strategy.md)
 &nbsp;
 
-###### tags: `programmig-hero` `python` `float` `int` `math`
+###### tags: `programmig-hero` `python` `python3` `problem-solving` `programming` `coding-challenge` `interview` `learn-pyton` `python-tutorial` `programming-exercises` `programming-challenges`  `programming-fundamentals` `programming-contest`  `python-coding-challenges` `python-problem-solving` 

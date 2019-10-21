@@ -59,4 +59,4 @@ A prime number is only divisible by 1 and the number itself.
 [![Next Page](../assets/next-button.png)](Prime-Numbers.md)
 &nbsp;
 
-###### tags: `programmig-hero` `python` `float` `int` `math`
+###### tags: `programmig-hero` `python` `python3` `problem-solving` `programming` `coding-challenge` `interview` `learn-pyton` `python-tutorial` `programming-exercises` `programming-challenges`  `programming-fundamentals` `programming-contest`  `python-coding-challenges` `python-problem-solving` 

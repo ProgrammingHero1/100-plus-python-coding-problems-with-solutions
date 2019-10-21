@@ -60,5 +60,5 @@ Use the max function to get the largest number in a list.
 [![Next Page](../assets/next-button.png)](Sum-of-squares.md)
 &nbsp;
 
-###### tags: `programmig-hero` `python` `float` `int` `math`
+###### tags: `programmig-hero` `python` `python3` `problem-solving` `programming` `coding-challenge` `interview` `learn-pyton` `python-tutorial` `programming-exercises` `programming-challenges`  `programming-fundamentals` `programming-contest`  `python-coding-challenges` `python-problem-solving` 
 

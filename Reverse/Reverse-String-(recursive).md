@@ -33,12 +33,6 @@ print(str[:])
 
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-Give me more: non-premium
-You can use these range index for a list as well. 
-
-Go to the code playground, declare a list and try it.
-
-Do it now. And enjoy it.
 
 ## Solution
 ```python
@@ -98,5 +92,5 @@ You can slice a string to get a part of the string.
 [![Next Page](../assets/next-button.png)](Reverse-Number.md)
 &nbsp;
 
-###### tags: `programmig-hero` `python` `float` `int` `math`
+###### tags: `programmig-hero` `python` `python3` `problem-solving` `programming` `coding-challenge` `interview` `learn-pyton` `python-tutorial` `programming-exercises` `programming-challenges`  `programming-fundamentals` `programming-contest`  `python-coding-challenges` `python-problem-solving` 
 

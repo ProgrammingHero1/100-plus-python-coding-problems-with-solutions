@@ -6,12 +6,12 @@ For two numbers, calculate the least common multiple (LCM).
 ## Hint
 The multiples of 4 and 5 are below:
 
-Multiple of 4: 4,  8,  12, 16, 20 , 24 28 ,32, 36, 40, 44
-Multiple of 5: 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55 
+Multiple of `4: 4,  8,  12, 16, 20 , 24 28 ,32, 36, 40, 44`
+Multiple of `5: 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55 `
 
 Now, what are the common multiples? The common number that exists in multiple of 4 and 5 are:
 
-Common multiples: 20, 40, 60, 80
+Common multiples: `20, 40, 60, 80`
 
 So, you can tell the smallest common multiple is 20. Hence, the least common multiple(LCM) of 4 and 5 is 20.
 
@@ -48,8 +48,8 @@ It's actually much easier than it seems.
 
 
 &nbsp;
-[![Next Page](../assets/next-button.png)](README.md)
+[![Next Page](../assets/next-button.png)](../Programming-Contest/Programming-Contest.md)
 &nbsp;
 
-###### tags: `programmig-hero` `python` `float` `int` `math`
+###### tags: `programmig-hero` `python` `python3` `problem-solving` `programming` `coding-challenge` `interview` `learn-pyton` `python-tutorial` `programming-exercises` `programming-challenges`  `programming-fundamentals` `programming-contest`  `python-coding-challenges` `python-problem-solving` 
 

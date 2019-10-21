@@ -21,17 +21,6 @@ While dividing, you will keep the remainder. These remainders will be used to bu
 
 Then, reverse the order of the reminder, to get the binary number. 
 
-**Give me more: non-premium**
-Let's say, you want to get the binary number of 233. You will start dividing by 2, store the remainder on a list. And then, set the number by the result of the division
-
-So, if you divide 233 by 2, the result will be 116 and the remainder will be 1. 
-
-Keep doing it until the number becomes 0. 
-
-Then you will reverse the list. 
-
-Finally, you have to put the binary bits (0 and 1) in one number to get the final binary. 
-
 ##  Solution
 I looked into the below code 7 times to understand. Still trying to figure it out...So, spend some time here to look at the code:
 
@@ -89,10 +78,10 @@ If you keep trying and revisiting , again and again, these will start making sen
 
 ## Quiz
 
-1. What is a binary number?
-2. Numbers written on a trash bin
-3. Numbers that use 0,1 only
-4. Numbers with any 2 digits
+What is a binary number?
+1. Numbers written on a trash bin
+2. Numbers that use 0,1 only
+3. Numbers with any 2 digits
 
 <details>
  <summary><b>Show Answer</b></summary>
@@ -105,7 +94,7 @@ Binary numbers use 0 and 1 only.
 
 
 &nbsp;
-[![Next Page](../assets/next-button.png)](../README.md)
+[![Next Page](../assets/next-button.png)](Decimal-to-binary-recursive.md)
 &nbsp;
 
-###### tags: `programmig-hero` `python` `float` `int` `math`
+###### tags: `programmig-hero` `python` `python3` `problem-solving` `programming` `coding-challenge` `interview` `learn-pyton` `python-tutorial` `programming-exercises` `programming-challenges`  `programming-fundamentals` `programming-contest`  `python-coding-challenges` `python-problem-solving` 

@@ -27,8 +27,10 @@ print(result)
 When you divide one number by another you get two things. One is called the integer part of the division. Another is the remainder. 
 
 To get the quotient (result without the remainder), you can use two-division symbols. 
-
+```python
 print(37//10)
+37 = 3*10+7
+```
 
 ## Think different
 Another alternative approach is to use the floor method from the math module. If you pass a number with a fraction to the math.floor function, it will return you the integer part of the number. 
@@ -72,5 +74,5 @@ Use // to get floor division.
 [![Next Page](../assets/next-button.png)](Temporary-variable.md)
 &nbsp;
 
-###### tags: `programmig-hero` `python` `float` `int` `math`
+###### tags: `programmig-hero` `python` `python3` `problem-solving` `programming` `coding-challenge` `interview` `learn-pyton` `python-tutorial` `programming-exercises` `programming-challenges`  `programming-fundamentals` `programming-contest`  `python-coding-challenges` `python-problem-solving` 
 

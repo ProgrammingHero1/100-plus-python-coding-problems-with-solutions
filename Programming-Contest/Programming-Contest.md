@@ -20,3 +20,6 @@ The real-world problems that we are covering in Programming Hero will be enough 
 Keep going. Keep learning. 
 Happy Journey.
 
+&nbsp;
+[![Next Page](../assets/next-button.png)](../Simple-Game/Guess-game.md)
+&nbsp;

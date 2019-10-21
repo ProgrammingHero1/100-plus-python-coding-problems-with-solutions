@@ -4,7 +4,7 @@
 ## The problem
 Take a number as input. Then get the sum of the numbers. If the number is n. Then get
 
-02+12+22+32+42+.............+n2
+`0^2+1^2+2^2+3^2+4^2+.............+n^2`
 
 ## Hints
 Once again, run a for loop with a range. Inside the loop, use the power of 2. Then add that power to a sum variable. That’s it.
@@ -57,7 +57,7 @@ This is the reason, you should search online and learn from different sources. T
 
 If you want to calculate the sum of the square of n numbers, the formula is-
 
-n*(n+1)(2*n+1)/6
+`n*(n+1)(2*n+1)/6`
 
 Now you can use this formula.
 ```python
@@ -91,5 +91,5 @@ Knowing shortcut ways will make you smarter and faster.
 [![Next Page](../assets/next-button.png)](Second-Largest.md)
 &nbsp;
 
-###### tags: `programmig-hero` `python` `float` `int` `math`
+###### tags: `programmig-hero` `python` `python3` `problem-solving` `programming` `coding-challenge` `interview` `learn-pyton` `python-tutorial` `programming-exercises` `programming-challenges`  `programming-fundamentals` `programming-contest`  `python-coding-challenges` `python-problem-solving` 
 

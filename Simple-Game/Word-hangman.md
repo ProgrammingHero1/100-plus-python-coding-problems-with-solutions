@@ -6,7 +6,7 @@ Create a word hangman game.
 ## Hint
 The word hangman is a simple game. You will provide a word with the first letter. Rest of the letters will be blank. For example, 
 
-s_ _ _ _ _ _ _ _ _
+`s_ _ _ _ _ _ _ _ _`
 
 The player has to guess the letters in the word. And the player will guess one letter at a time. If the letter exists in the word, it will appear to the player. 
 
@@ -65,7 +65,7 @@ So, practice it here.
 If you don't understand any line, feel free to ask us a question. 
 
 &nbsp;
-[![Next Page](assets/next-button.png)](..README.md)
+[![Next Page](../assets/next-button.png)](../Harder/Simple-Calculator.md)
 &nbsp;
 
-###### tags: `programmig-hero` `python` `float` `int` `math`
+###### tags: `programmig-hero` `python` `python3` `problem-solving` `programming` `coding-challenge` `interview` `learn-pyton` `python-tutorial` `programming-exercises` `programming-challenges`  `programming-fundamentals` `programming-contest`  `python-coding-challenges` `python-problem-solving` 

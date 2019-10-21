@@ -35,26 +35,9 @@ print('h'+'w')
 
 However, a string is not a list.
 
-Give me more: non-premium
-A string is called an ordered sequence. This means it is an order sequence. That's why you can access a sequence (a position) by an index. 
-
-Also, you can run for a loop. 
-
-However, a string is not a changeable thing. Sometimes, people refer to the phrase “not changeable” as immutable. Immutable means, it’s not mutable (not changeable). 
-
-That’s why you would not be able to append or remove a character from a string. Or you can not set any element by an index. 
-
-my_string[3] = ‘c’
-
-This will throw an exception. 
-
-In summary, just remember- you can access string by index but you cannot directly set it or change it.
-
-The indirect way is to create a new string and keep adding by the plus sign. 
-
 ## Solution
  
-```python=
+```python
 def reverse_string(str):
    reverse = ""
    for char in str:
@@ -121,4 +104,4 @@ A string is an immutable ordered sequence.
 [![Next Page](../assets/next-button.png)](Reverse-String-(stack).md)
 &nbsp;
 
-###### tags: `programmig-hero` `python` `float` `int` `math`
+###### tags: `programmig-hero` `python` `python3` `problem-solving` `programming` `coding-challenge` `interview` `learn-pyton` `python-tutorial` `programming-exercises` `programming-challenges`  `programming-fundamentals` `programming-contest`  `python-coding-challenges` `python-problem-solving` 
