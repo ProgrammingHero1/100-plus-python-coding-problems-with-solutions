@@ -5,8 +5,9 @@ Take money borrowed, interest and duration as input. Then, compute the compound 
 
 ###   Hint
 Compound interest formula is:
-
+```python
 A = P(1+r/100)t
+```
 
 Here, P is the principal amount; it is the amount that you borrowed. r is the interest rate in percentage and t is the time.
 
@@ -43,4 +44,4 @@ To apply the same power on multiple things, put them inside parentheses and then
 [![Next Page](../assets/next-button.png)](Calculate-Grades.md)
 &nbsp;
 
-###### tags: `programmig-hero` `python` `float` `int` `math`
+tags:  `programming-hero`  `python`  `python3`  `problem-solving`  `programming`  `coding-challenge`  `interview`  `learn-python`  `python-tutorial`  `programming-exercises`  `programming-challenges`  `programming-fundamentals`  `programming-contest`  `python-coding-challenges`  `python-problem-solving`

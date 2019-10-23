@@ -10,16 +10,16 @@ A number is an Armstrong Number or narcissistic number if it is equal to the sum
  
 Think about the number 371.  The total number of digits is 3. Now, for each digit, put the power of 3 and then add them. It will be:
 
-```
+```python
 33 + 73 + 13 
 = 27 + 343 + 1
 = 371
-Hence, 371 is an Armstrong number. 
 ```
+Hence, 371 is an Armstrong number. 
  
 Similarly, 1634 is another Armstrong number, because the total number of digits is 4. Now, power each digit and sum them. You will get the Armstrong number.
  
-```
+```python
 = 14 + 64 + 34 + 44 
 = 1 + 1296 + 81 + 256
 = 1634
@@ -82,6 +82,6 @@ return result
 [![Next Page](../assets/next-button.png)](Greatest-common-divisor.md)
 &nbsp;
 
-###### tags: `programmig-hero` `python` `float` `int` `math`
+tags:  `programming-hero`  `python`  `python3`  `problem-solving`  `programming`  `coding-challenge`  `interview`  `learn-python`  `python-tutorial`  `programming-exercises`  `programming-challenges`  `programming-fundamentals`  `programming-contest`  `python-coding-challenges`  `python-problem-solving`
 
 

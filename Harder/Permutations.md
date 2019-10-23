@@ -16,15 +16,6 @@ For example, you have 1,2,3. Now all possible order is
 
 So, the permutation is a way to find all the possible order or sequence of elements.
 
-Give me more: non-premium
-One important part of the solution is to select one element and get a list excluding that element. Let's say you want to select the list without the 4th position element. 
-
-All the elements before the 4th index element will be lst[:4]. This is from beginning to before the 4th element.
-
-Similarly, all the elements after the fourth position will be lst[4+1:]. This is from the 4+1 or 5th element to the end.
-
-This concept will help in permutation to select one element and place it in multiple places.
-
 ```python
 lst = [2,3,4,6,11,16,7,8]
 before = lst[:4]
@@ -81,11 +72,11 @@ Finally, we have to join the current element with the rest of the list. To do so
 
 The loop variable p is a list. Whereas the current is an element. You can not add 
 
-3 + [2,1]
+`3 + [2,1]`
 
 That’s why we put current in a list as well so that it becomes a list as well. In the following example,  
 
-[3] + [2, 1]
+`[3] + [2, 1]`
 
 This will create [3, 2, 1]. That’s why we did [current] + p  to make the final permutation. 
 
@@ -93,7 +84,7 @@ This code is harder. It will take a few practices to become comfortable with it.
 
 
 &nbsp;
-[![Next Page](assets/next-button.png)](Generate-Sentences.md)
+[![Next Page](../assets/next-button.png)](Generate-Sentences.md)
 &nbsp;
 
-###### tags: `programmig-hero` `python` `float` `int` `math`
+tags:  `programming-hero`  `python`  `python3`  `problem-solving`  `programming`  `coding-challenge`  `interview`  `learn-python`  `python-tutorial`  `programming-exercises`  `programming-challenges`  `programming-fundamentals`  `programming-contest`  `python-coding-challenges`  `python-problem-solving`

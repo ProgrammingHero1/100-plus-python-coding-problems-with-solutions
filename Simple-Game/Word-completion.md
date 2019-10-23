@@ -102,7 +102,7 @@ The answer is: 3
 
 
 &nbsp;
-[![Next Page](assets/next-button.png)](Word-hangman.md)
+[![Next Page](../assets/next-button.png)](Word-hangman.md)
 &nbsp;
 
-###### tags: `programmig-hero` `python` `float` `int` `math`
+tags:  `programming-hero`  `python`  `python3`  `problem-solving`  `programming`  `coding-challenge`  `interview`  `learn-python`  `python-tutorial`  `programming-exercises`  `programming-challenges`  `programming-fundamentals`  `programming-contest`  `python-coding-challenges`  `python-problem-solving`

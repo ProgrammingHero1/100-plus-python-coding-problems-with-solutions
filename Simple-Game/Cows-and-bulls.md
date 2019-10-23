@@ -24,9 +24,9 @@ Hence your score will be:
 Bulls: 1
 Cows: 1
  
-Give me more: non-premium
+
 Another example-
-Secret number: 4271
+Secret number: 4271 
 player's try: 1234
 Answer: 1 bull and 2 cows. (The bull is "2", the cows are "4" and "1".)
 
@@ -93,7 +93,7 @@ Finally, if there is no remaining try (remaining try < 1), print that user lost.
 
 
 &nbsp;
-[![Next Page](assets/next-button.png)](Cows-and-bulls(4digits).md)
+[![Next Page](../assets/next-button.png)](Cows-and-bulls(4digits).md)
 &nbsp;
 
-###### tags: `programmig-hero` `python` `float` `int` `math`
+tags:  `programming-hero`  `python`  `python3`  `problem-solving`  `programming`  `coding-challenge`  `interview`  `learn-python`  `python-tutorial`  `programming-exercises`  `programming-challenges`  `programming-fundamentals`  `programming-contest`  `python-coding-challenges`  `python-problem-solving`

@@ -9,8 +9,8 @@ Here, we will take a real-world coding related problem. We will think about the 
 ## 1 -&nbsp; Easy ones
 * **[1.1](Easy-ones/User-input-to-Number.md "Convert input")** - **[Convert input](/Easy-ones/User-input-to-Number.md)**
 * **[1.2](Easy-ones/Math-Power.md "Math power")** - **[Math power](/Easy-ones/Math-Power.md)**
-* **[1.3](Easy-ones/Math-Power.md "Floor Division")** - **[Floor Division](/Easy-ones/Random-Number.md)**
-* **[1.4](/Easy-ones/Floor-Division.md "Floor Division")** - **[Floor Division](/Easy-ones/Floor-Division.md)**
+* **[1.3](Easy-ones/Random-Number.md "Random Number")** - **[Random Number](/Easy-ones/Random-Number.md)**
+* **[1.4](Easy-ones/Floor-Division.md "Floor Division")** - **[Floor Division](/Easy-ones/Floor-Division.md)**
 * **[1.5](Easy-ones/Temporary-variable.md "Temporary variable")** - **[Temporary variable](/Easy-ones/Temporary-variable.md)** 
 
 
@@ -24,6 +24,16 @@ Here, we will take a real-world coding related problem. We will think about the 
 
 ## 3 -&nbsp; Loop Related
 * **[3.1](Loop-Related/Coin-sum.md "Sum of elements")** - **[Sum of elements](Loop-Related/Coin-sum.md)**
+* ### 2 -&nbsp; Number Related - 6-10
+* **[2.1](Number-Related/max-of-two.md "Max of two")** - **[Max of two](Number-Related/max-of-two.md)**
+* **[2.2](Number-Related/Max-of-three.md "Max of three")** - **[Max of three](Number-Related/Max-of-three.md)**
+* **[2.3](Number-Related/Average-of-numbers.md "Average of numbers")** - **[Average of numbers](Number-Related/Average-of-numbers.md)**
+* **[2.4](Number-Related/Divisible-by-3-and-5.md "Divisible by 3 and 5")** - **[Divisible by 3 and 5](Number-Related/Divisible-by-3-and-5.md)**
+* **[2.5](Number-Related/Sum-of-digits.md "Sum of digits")** - **[Sum of digits](Number-Related/Sum-of-digits.md)**
+
+
+* ### 3 -&nbsp; Loop Related - 11-16
+* **[3.1](Loop-Related/Sum-of-elements.md "Sum of elements")** - **[Sum of elements](Loop-Related/Sum-of-elements.md)**
 * **[3.2](Loop-Related/Largest-element-of-a-list.md "Largest element of a list")** - **[Largest element of a list](Loop-Related/Largest-element-of-a-list.md)**
 * **[3.3](Loop-Related/Sum-of-squares.md "Sum of squares")** - **[Sum of squares](Loop-Related/Sum-of-squares.md)**
 * **[3.4](Loop-Related/Second-Largest.md "Second Largest")** - **[Second Largest](Loop-Related/Second-Largest.md)**
@@ -35,6 +45,10 @@ Here, we will take a real-world coding related problem. We will think about the 
 * **[4.1](Conversions/Celsius-to-Fahrenheit.md "Miles to Kilometers")** - **[Miles to Kilometers](Conversions/Celsius-to-Fahrenheit.md)**
 * **[4.2](Conversions/Decimal-to-binary.md "Celsius to Fahrenheit")** - **[Celsius to Fahrenheitt](Conversions/Decimal-to-binary.md)**
 * **[4.3](Conversions/Decimal-to-binary-recursive.md "Decimal to binary")** - **[Decimal to binary](Conversions/Decimal-to-binary-recursive.md)**
+* ### 4 -&nbsp; Conversions - 17-21
+* **[4.1](Conversions/Miles-to-Kilometers.md "Miles to Kilometers")** - **[Miles to Kilometers](Conversions/Miles-to-Kilometers.md)**
+* **[4.2](Conversions/Celsius-to-Fahrenheit.md "Celsius to Fahrenheit")** - **[Celsius to Fahrenheitt](Conversions/Celsius-to-Fahrenheit.md)**
+* **[4.3](Conversions/Decimal-to-binary.md "Decimal to binary")** - **[Decimal to binary](Conversions/Decimal-to-binary.md)**
 * **[4.4](Conversions/Decimal-to-binary-recursive.md "Decimal to binary (recursive)")** - **[Decimal to binary (recursive)](Conversions/Decimal-to-binary-recursive.md)**
 * **[4.5](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp "Binary to decimal")** - **[Binary to decimal](premium)** **- Premium Access**
 
@@ -98,7 +112,7 @@ Here, we will take a real-world coding related problem. We will think about the 
 * **[13.3](User-Submitted/Calculate-age.md "Calculate age")** - &nbsp; **[Calculate age](User-Submitted/Calculate-age.md)** 
 
 
-
+> Only half of the task is done. More problems are coming. If you want to add more problems, feel free to send a pull request.
 
 
 ### Many solutions
@@ -115,4 +129,4 @@ Always keep an open mind to learn multiple solutions to solve a problem.
 [![Next Page](assets/next-button.png)](/Easy-ones/User-input-to-Number.md)
 &nbsp;
 
-###### tags: `programmig-hero` `python` `float` `int` `math`
+tags:  `programming-hero`  `python`  `python3`  `problem-solving`  `programming`  `coding-challenge`  `interview`  `learn-python`  `python-tutorial`  `programming-exercises`  `programming-challenges`  `programming-fundamentals`  `programming-contest`  `python-coding-challenges`  `python-problem-solving`

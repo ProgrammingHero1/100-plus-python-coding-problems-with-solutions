@@ -8,7 +8,7 @@ Cubes mean power of 3. Hence, the cube of 9 is 9**3.
 
 Here you have to calculate the cube of a series. If you want to calculate the cube up to the number n. The series will look like- 
 
-`13+23+33+43+ .. .. .. +n3`
+`1^3+2^3+3^3+4^3+ .. .. .. +n^3`
 
 If you remembered the sum of the square, this one will be easier for you.
 
@@ -32,7 +32,7 @@ print('Your sum of cubes are: ', result)
 ## Think Different
 There is an alternative solution to calculate the sum of cube of the n numbers. You can use
 
-(n*(n+1)/2)2
+`(n*(n+1)/2)^2`
 
 
 ## Alternative Solution
@@ -52,6 +52,6 @@ Sum of a series might have an easier formula.
 [![Next Page](../assets/next-button.png)](Armstrong-number.md)
 &nbsp;
 
-###### tags: `programmig-hero` `python` `float` `int` `math`
+tags:  `programming-hero`  `python`  `python3`  `problem-solving`  `programming`  `coding-challenge`  `interview`  `learn-python`  `python-tutorial`  `programming-exercises`  `programming-challenges`  `programming-fundamentals`  `programming-contest`  `python-coding-challenges`  `python-problem-solving`
 
 

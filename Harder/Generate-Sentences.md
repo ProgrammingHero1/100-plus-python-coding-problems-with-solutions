@@ -27,7 +27,7 @@ Damn easy, isn't it?
 
 
 &nbsp;
-[![Next Page](assets/next-button.png)](..README.md)
+[![Next Page](../assets/next-button.png)](../User-Submitted/Simple-Clock.md)
 &nbsp;
 
-###### tags: `programmig-hero` `python` `float` `int` `math`
+tags:  `programming-hero`  `python`  `python3`  `problem-solving`  `programming`  `coding-challenge`  `interview`  `learn-python`  `python-tutorial`  `programming-exercises`  `programming-challenges`  `programming-fundamentals`  `programming-contest`  `python-coding-challenges`  `python-problem-solving`

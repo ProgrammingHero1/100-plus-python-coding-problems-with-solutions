@@ -55,7 +55,7 @@ Keep going. Only a few more left. I am sure you can do it
 
 
 &nbsp;
-[![Next Page](assets/next-button.png)](Permutations.md)
+[![Next Page](../assets/next-button.png)](Permutations.md)
 &nbsp;
 
-###### tags: `programmig-hero` `python` `float` `int` `math`
+tags:  `programming-hero`  `python`  `python3`  `problem-solving`  `programming`  `coding-challenge`  `interview`  `learn-python`  `python-tutorial`  `programming-exercises`  `programming-challenges`  `programming-fundamentals`  `programming-contest`  `python-coding-challenges`  `python-problem-solving`

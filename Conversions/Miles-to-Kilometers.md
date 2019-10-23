@@ -35,8 +35,8 @@ Go to the code editor and then try it yourself. When you do it yourself without 
 
 
 &nbsp;
-[![Next Page](../assets/next-button.png)](../README.md)
+[![Next Page](../assets/next-button.png)](Celsius-to-Fahrenheit.md)
 &nbsp;
 
-###### tags: `programmig-hero` `python` `float` `int` `math`
+tags:  `programming-hero`  `python`  `python3`  `problem-solving`  `programming`  `coding-challenge`  `interview`  `learn-python`  `python-tutorial`  `programming-exercises`  `programming-challenges`  `programming-fundamentals`  `programming-contest`  `python-coding-challenges`  `python-problem-solving`
 

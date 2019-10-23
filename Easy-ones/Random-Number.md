@@ -7,7 +7,7 @@ Create a random number between 0 to 10
 ## Hints
 To create a random number, you have to import a built-in library named random. And then you can call the randint method on it
 
-##### result = 4**3
+`result = 4**3`
 
 ## Solution
 
@@ -39,4 +39,4 @@ Use math.randomint to get a random integer.
 [![Next Page](../assets/next-button.png)](Floor-Division.md)
 &nbsp;
 
-###### tags: `programmig-hero` `python` `float` `int` `math`
+tags:  `programming-hero`  `python`  `python3`  `problem-solving`  `programming`  `coding-challenge`  `interview`  `learn-python`  `python-tutorial`  `programming-exercises`  `programming-challenges`  `programming-fundamentals`  `programming-contest`  `python-coding-challenges`  `python-problem-solving`
