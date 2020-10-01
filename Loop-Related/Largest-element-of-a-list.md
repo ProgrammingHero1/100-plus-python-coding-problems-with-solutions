@@ -9,6 +9,7 @@ Take the first element as the largest number. Then loop through the list and com
  
 
 ## Solution
+## Method 1-
 ```python
 def get_largest(nums):
    largest = nums[0]
@@ -23,6 +24,17 @@ largest = get_largest(my_nums)
  
 print('The largest number is: ', largest)
 ```
+## Method 2-
+```python
+//we can easily use a function called max
+
+my_nums = [0,1,2,5,7,4,9]
+
+largest = max(my_nums)
+
+print('The largest number is: ', largest)
+```
+
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 ## Explanation
