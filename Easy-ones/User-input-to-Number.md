@@ -10,6 +10,7 @@ Take two inputs from the user. One will be an integer. The other will be a float
 Use input. By default, input gives you a string. Then use int and float to convert the input to a number. And then multiply them. That’s it.
 
 ## Solution
+## Method 1-
 ```python
 int_text = input("Give me an integer number: ")
 int_num = int(int_text)
@@ -18,7 +19,13 @@ float_num = float(float_text)
 result = int_num * float_num
 print("Your result is: ", result)
 ```
-
+## Method 2-
+```python
+int_num = int(input("Give me an integer number: "))
+float_num = float(input("Give me a float  number: "))
+result = int_num * float_num
+print("Your result is: ", result)
+```
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 ## Shortcut
