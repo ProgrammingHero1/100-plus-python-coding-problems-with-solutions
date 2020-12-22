@@ -96,7 +96,7 @@ Will you be able to append, remove or set a character to string by the index?
    <p>The answer is: 2</p>
  </details>
 
-## take Away
+## Takeaway
 A string is an immutable ordered sequence. 
 
 
