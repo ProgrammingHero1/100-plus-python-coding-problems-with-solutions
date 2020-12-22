@@ -28,7 +28,7 @@ def get_prime_factors(n):
     while n > 2:
        if(n % divisor == 0):
            factors.append(divisor)
-           n = n / divisor
+           n = n // divisor
        else:
            divisor = divisor + 1
    return factors
