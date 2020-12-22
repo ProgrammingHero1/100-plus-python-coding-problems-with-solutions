@@ -11,7 +11,7 @@ A number is an Armstrong Number or narcissistic number if it is equal to the sum
 Think about the number 371.  The total number of digits is 3. Now, for each digit, put the power of 3 and then add them. It will be:
 
 ```python
-33 + 73 + 13 
+3^3 + 7^3 + 1^3 
 = 27 + 343 + 1
 = 371
 ```
@@ -20,7 +20,7 @@ Hence, 371 is an Armstrong number.
 Similarly, 1634 is another Armstrong number, because the total number of digits is 4. Now, power each digit and sum them. You will get the Armstrong number.
  
 ```python
-= 14 + 64 + 34 + 44 
+= 1^4 + 6^4 + 3^4 + 4^4 
 = 1 + 1296 + 81 + 256
 = 1634
 ```
