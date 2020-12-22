@@ -61,7 +61,7 @@ This means you are adding the first element at the end. And if you keep doing it
 ## Smart Solution
 There is a smarter and quicker solution to reverse a string.
 
-I asked my grandma how the code below works. She didn't’ answered.  Instead, she sent a letter to Google through her private pigeon. 
+I asked my grandma how the code below works. She didn't answer.  Instead, she sent a letter to Google through her private pigeon. 
 
 ```python
 txt = "Welcome to the Jungle"
@@ -71,7 +71,7 @@ print(txt[::-1])
 **[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
  
 ## Quiz
-How would you slide a string and get the first five characters?
+How would you slice a string and get the first five characters?
 
 1. Str[1:6]
 2. Str[1:5]
