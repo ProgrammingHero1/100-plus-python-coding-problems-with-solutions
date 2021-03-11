@@ -6,7 +6,8 @@ Here, we will take a real-world coding related problem. We will think about the 
 
 ## Table of Contents:
 
-## 1 -&nbsp; Easy ones
+## 1 -&nbsp; Easy ones 
+
 * **[1.1](Easy-ones/User-input-to-Number.md "Convert input")** - **[Convert input](/Easy-ones/User-input-to-Number.md)**
 * **[1.2](Easy-ones/Math-Power.md "Math power")** - **[Math power](/Easy-ones/Math-Power.md)**
 * **[1.3](Easy-ones/Random-Number.md "Random Number")** - **[Random Number](/Easy-ones/Random-Number.md)**
@@ -14,17 +15,9 @@ Here, we will take a real-world coding related problem. We will think about the 
 * **[1.5](Easy-ones/Temporary-variable.md "Temporary variable")** - **[Temporary variable](/Easy-ones/Temporary-variable.md)** 
 
 
-## 2 -&nbsp; Number Related
-* **[2.1](Number-Relate "Max of two")** - **[Max of two](/Number-Relate)**
-* **[2.2](Number-Related/Math-Power.md "Max of three")** - **[Max of three](/Number-Related/User-input-to-Number.md)**
-* **[2.3](Number-Related/Math-Power.md "Average of numbers")** - **[Average of numbers](/Number-Related/Math-Power.md)**
-* **[2.4](Number-Related/Divisible-by-3-and-5.md "Divisible by 3 and 5")** - **[Divisible by 3 and 5](/Number-Related/Divisible-by-3-and-5.md)**
-* **[2.5](Number-Related/Sum-of-digits.md "Sum of digits")** - **[Sum of digits](Loop-Related/Sum-of-digits.md)**
 
+## 2 -&nbsp; Number Related 
 
-## 3 -&nbsp; Loop Related
-* **[3.1](Loop-Related/Coin-sum.md "Sum of elements")** - **[Sum of elements](Loop-Related/Coin-sum.md)**
-* ### 2 -&nbsp; Number Related - 6-10
 * **[2.1](Number-Related/max-of-two.md "Max of two")** - **[Max of two](Number-Related/max-of-two.md)**
 * **[2.2](Number-Related/Max-of-three.md "Max of three")** - **[Max of three](Number-Related/Max-of-three.md)**
 * **[2.3](Number-Related/Average-of-numbers.md "Average of numbers")** - **[Average of numbers](Number-Related/Average-of-numbers.md)**
@@ -32,28 +25,33 @@ Here, we will take a real-world coding related problem. We will think about the 
 * **[2.5](Number-Related/Sum-of-digits.md "Sum of digits")** - **[Sum of digits](Number-Related/Sum-of-digits.md)**
 
 
-* ### 3 -&nbsp; Loop Related - 11-16
+## 3 -&nbsp; Loop Related 
+
 * **[3.1](Loop-Related/Sum-of-elements.md "Sum of elements")** - **[Sum of elements](Loop-Related/Sum-of-elements.md)**
 * **[3.2](Loop-Related/Largest-element-of-a-list.md "Largest element of a list")** - **[Largest element of a list](Loop-Related/Largest-element-of-a-list.md)**
 * **[3.3](Loop-Related/Sum-of-squares.md "Sum of squares")** - **[Sum of squares](Loop-Related/Sum-of-squares.md)**
-* **[3.4](Loop-Related/Second-Largest.md "Second Largest")** - **[Second Largest](Loop-Related/Second-Largest.md)**
+* **[3.4]((Loop-Related/Second-Largest.md "Second Largest")** - **[Second Largest](Loop-Related/Second-Largest.md)**
 * **[3.5](Loop-Related/Second-smallest.md "Second Smallest")** - **[Second Smallest](Loop-Related/Second-smallest.md)**
 * **[3.6](Loop-Related/Remove-duplicate-Chars.md "Remove duplicate Chars")** - **[Remove duplicate Chars](Loop-Related/Remove-duplicate-Chars.md)**
 
 
-## 4 -&nbsp; Conversions
-* **[4.1](Conversions/Celsius-to-Fahrenheit.md "Miles to Kilometers")** - **[Miles to Kilometers](Conversions/Celsius-to-Fahrenheit.md)**
-* **[4.2](Conversions/Decimal-to-binary.md "Celsius to Fahrenheit")** - **[Celsius to Fahrenheitt](Conversions/Decimal-to-binary.md)**
-* **[4.3](Conversions/Decimal-to-binary-recursive.md "Decimal to binary")** - **[Decimal to binary](Conversions/Decimal-to-binary-recursive.md)**
-* ### 4 -&nbsp; Conversions - 17-21
+
+## 4 -&nbsp; Conversions 
+
 * **[4.1](Conversions/Miles-to-Kilometers.md "Miles to Kilometers")** - **[Miles to Kilometers](Conversions/Miles-to-Kilometers.md)**
 * **[4.2](Conversions/Celsius-to-Fahrenheit.md "Celsius to Fahrenheit")** - **[Celsius to Fahrenheitt](Conversions/Celsius-to-Fahrenheit.md)**
 * **[4.3](Conversions/Decimal-to-binary.md "Decimal to binary")** - **[Decimal to binary](Conversions/Decimal-to-binary.md)**
 * **[4.4](Conversions/Decimal-to-binary-recursive.md "Decimal to binary (recursive)")** - **[Decimal to binary (recursive)](Conversions/Decimal-to-binary-recursive.md)**
-* **[4.5](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp "Binary to decimal")** - **[Binary to decimal](premium)** **- Premium Access**
+* **[4.5](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp "Binary to decimal")** - **[Binary to decimal(premium)](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
-## [5](Solution-Strategy.md "Solution Strategy") -&nbsp; [Solution Strategy](Solution-Strategy.md) 
-  
+
+
+## 5 -&nbsp; Solution Strategy
+
+* **[5](Solution-Strategy.md "Solution Strategy")** - **[Solution Strategy](Solution-Strategy.md)**
+
+
+
 ## 6 -&nbsp; Computations
 
 * **[6.1](Computations/Simple-Interest.md "Simple Interest")** - **[Simple Interest](Computations/Simple-Interest.md)**
@@ -62,12 +60,16 @@ Here, we will take a real-world coding related problem. We will think about the 
 * **[6.4](Computations/Gravitational-Force.md "Gravitational Force)")** - **[Gravitational Force](Computations/Gravitational-Force.md)**
 * **[6.5](Computations/Triangle-Area.md "Triangle Area)")** - **[Triangle Area](Computations/Triangle-Area.md)**
 
+
+
 ## 7 -&nbsp; Prime number
 
-* **[7.1](Prime-number/Check-Prime.md "Check Prime")** - &nbsp; **[Check Prime](Solution-Strategy.md)** 
+* **[7.1](Prime-number/Check-Prime.md "Check Prime")** - &nbsp; **[Check Prime](Prime-number/Check-Prime.md)** 
 * **[7.2](Prime-number/Prime-Numbers.md "Prime Numbers")** - &nbsp; **[Prime Numbers](Prime-number/Prime-Numbers.md)** 
-* **[7.3](Prime-number/Prime-factors.md "Prime factors")** - &nbsp; **[Prime factors](Prime-number/Prime-factors.md)** 
+* **[7.3](Prime-number/Prime-factors.md "Prime factors")** - &nbsp; **[Prime factors](Prime-number/Prime-Factors.md)** 
 * **[7.4](Prime-number/Smallest-prime-factor.md "Smallest prime factor")** - &nbsp; **[Smallest prime factor](Prime-number/Smallest-prime-factor.md)** 
+
+
 
 ## 8 -&nbsp; Reverse
 
@@ -77,6 +79,8 @@ Here, we will take a real-world coding related problem. We will think about the 
 * **[8.4](Reverse/Reverse-Number.md "Reverse Number")** - &nbsp; **[Reverse Number](Reverse/Reverse-Number.md)** 
 * **[8.5](Reverse/Reverse-word.md "Reverse word")** - &nbsp; **[Reverse word](Reverse/Reverse-word.md)** 
 
+
+
 ## 9 -&nbsp; Medium
 
 * **[9.1](Medium/Check-palindrome.md "Check palindrome")** - &nbsp; **[Check palindrome](Medium/Check-palindrome.md)** 
@@ -85,7 +89,13 @@ Here, we will take a real-world coding related problem. We will think about the 
 * **[9.4](Medium/Greatest-common-divisor.md "Greatest common divisor")** - &nbsp; **[Greatest common divisor](Medium/Greatest-common-divisor.md)** 
 * **[9.5](Medium/Least-Common-Multiple.md "Least Common Multiple")** - &nbsp; **[Least Common Multiple](Medium/Least-Common-Multiple.md)** 
 
-## [10](Programming-Contest.md "Programming Contest") -&nbsp; [Programming Contest](Programming-Contest.md) 
+
+
+## 10 -&nbsp; Programming Contest
+
+* **[10](Programming-Contest.md "Programming Contest")** - &nbsp; **[Programming Contest](Programming-Contest/Programming-Contest.md)** 
+
+
 
 ## 11 -&nbsp; Simple Game
 
@@ -96,13 +106,16 @@ Here, we will take a real-world coding related problem. We will think about the 
 * **[11.5](Simple-Game/Word-completion.md "Word completion")** - &nbsp; **[Word completion](Simple-Game/Word-completion.md)** 
 * **[11.6](Simple-Game/Word-hangman.md "Word hangman")** - &nbsp; **[Word hangman](Simple-Game/Word-hangman.md)** 
 
+
+
 ## 12 -&nbsp; Harder
 
 * **[12.1](Harder/Simple-Calculator.md "Simple Calculator")** - &nbsp; **[Simple Calculator](Harder/Simple-Calculator.md)** 
 * **[12.2](Harder/Password-generator.md "Password generator")** - &nbsp; **[Password generator](Harder/Password-generator.md)** 
 * **[12.3](Harder/Password-with-requirements.md "Password with requirements")** - &nbsp; **[Password with requirements](Harder/Password-with-requirements.md)** 
 * **[12.4](Harder/Permutations.md "Permutations")** - &nbsp; **[Permutations](Harder/Permutations.md)** 
-* **[12.5](Harder/Simple-Calculator.md "Generate Sentences")** - &nbsp; **[Generate Sentences](Harder/Simple-Calculator.md)** 
+* **[12.5](Harder/Simple-Calculator.md "Generate Sentences")** - &nbsp; **[Generate Sentences](Harder/Generate-Sentences.md)** 
+
 
 
 ## 13 -&nbsp; User Submitted
