@@ -2,7 +2,7 @@
 ---
 
 # The problem 
-Take three sides of a triangle. And then calculate the area of the triangle. 
+Take three sides of a triangle. And then calculate the area of the triangle. This is also known as Heron's formula for finding area of a triangle.
 
 ## How it works 
 To calculate the area of the triangle. First, calculate the half of the perimeter. Here perimeter is the sum of each side of the triangle.
