@@ -15,15 +15,15 @@ Here, we will take a real-world coding related problem. We will think about the 
 
 
 ## 2 -&nbsp; Number Related
-* **[2.1](Number-Relate "Max of two")** - **[Max of two](/Number-Relate)**
-* **[2.2](Number-Related/Math-Power.md "Max of three")** - **[Max of three](/Number-Related/User-input-to-Number.md)**
-* **[2.3](Number-Related/Math-Power.md "Average of numbers")** - **[Average of numbers](/Number-Related/Math-Power.md)**
+* **[2.1](Number-Related/max-of-two.md")** - **[Max of two](/Number-Related/max-of-two.md)**
+* **[2.2](Number-Related/Max-of-three.md "Max of three")** - **[Max of three](/Number-Related/Max-of-three.md)**
+* **[2.3](Number-Related/Average-of-numbers.md "Average of numbers")** - **[Average of numbers](/Number-Related/Average-of-numbers.md)**
 * **[2.4](Number-Related/Divisible-by-3-and-5.md "Divisible by 3 and 5")** - **[Divisible by 3 and 5](/Number-Related/Divisible-by-3-and-5.md)**
-* **[2.5](Number-Related/Sum-of-digits.md "Sum of digits")** - **[Sum of digits](Loop-Related/Sum-of-digits.md)**
+* **[2.5](Number-Related/Sum-of-digits.md "Sum of digits")** - **[Sum of digits](/Number-Related/Sum-of-digits.md)**
 
 
 ## 3 -&nbsp; Loop Related
-* **[3.1](Loop-Related/Coin-sum.md "Sum of elements")** - **[Sum of elements](Loop-Related/Coin-sum.md)**
+* **[3.1](Loop-Related/Sum-of-elements.md "Sum of elements")** - **[Sum of elements](Loop-Related/Sum-of-elements.md)**
 * ### 2 -&nbsp; Number Related - 6-10
 * **[2.1](Number-Related/max-of-two.md "Max of two")** - **[Max of two](Number-Related/max-of-two.md)**
 * **[2.2](Number-Related/Max-of-three.md "Max of three")** - **[Max of three](Number-Related/Max-of-three.md)**
@@ -85,7 +85,7 @@ Here, we will take a real-world coding related problem. We will think about the 
 * **[9.4](Medium/Greatest-common-divisor.md "Greatest common divisor")** - &nbsp; **[Greatest common divisor](Medium/Greatest-common-divisor.md)** 
 * **[9.5](Medium/Least-Common-Multiple.md "Least Common Multiple")** - &nbsp; **[Least Common Multiple](Medium/Least-Common-Multiple.md)** 
 
-## [10](Programming-Contest.md "Programming Contest") -&nbsp; [Programming Contest](Programming-Contest.md) 
+## [10](Programming-Contest/Programming-Contest.md "Programming Contest") -&nbsp; [Programming Contest](Programming-Contest/Programming-Contest.md) 
 
 ## 11 -&nbsp; Simple Game
 
