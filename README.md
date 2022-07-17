@@ -24,16 +24,6 @@ Here, we will take a real-world coding related problem. We will think about the 
 
 ## 3 -&nbsp; Loop Related
 * **[3.1](Loop-Related/Sum-of-elements.md "Sum of elements")** - **[Sum of elements](Loop-Related/Sum-of-elements.md)**
-* ### 2 -&nbsp; Number Related - 6-10
-* **[2.1](Number-Related/max-of-two.md "Max of two")** - **[Max of two](Number-Related/max-of-two.md)**
-* **[2.2](Number-Related/Max-of-three.md "Max of three")** - **[Max of three](Number-Related/Max-of-three.md)**
-* **[2.3](Number-Related/Average-of-numbers.md "Average of numbers")** - **[Average of numbers](Number-Related/Average-of-numbers.md)**
-* **[2.4](Number-Related/Divisible-by-3-and-5.md "Divisible by 3 and 5")** - **[Divisible by 3 and 5](Number-Related/Divisible-by-3-and-5.md)**
-* **[2.5](Number-Related/Sum-of-digits.md "Sum of digits")** - **[Sum of digits](Number-Related/Sum-of-digits.md)**
-
-
-* ### 3 -&nbsp; Loop Related - 11-16
-* **[3.1](Loop-Related/Sum-of-elements.md "Sum of elements")** - **[Sum of elements](Loop-Related/Sum-of-elements.md)**
 * **[3.2](Loop-Related/Largest-element-of-a-list.md "Largest element of a list")** - **[Largest element of a list](Loop-Related/Largest-element-of-a-list.md)**
 * **[3.3](Loop-Related/Sum-of-squares.md "Sum of squares")** - **[Sum of squares](Loop-Related/Sum-of-squares.md)**
 * **[3.4](Loop-Related/Second-Largest.md "Second Largest")** - **[Second Largest](Loop-Related/Second-Largest.md)**
