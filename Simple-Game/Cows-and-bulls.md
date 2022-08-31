@@ -69,7 +69,7 @@ while remaining_try > 0:
                 print("You lost the game.")
                 break
     except IndexError:
-        print("Please Enter 2 digits ..")
+        print("Please Enter in between number 10 and 99 digits ..")
         pass
 
 ```
